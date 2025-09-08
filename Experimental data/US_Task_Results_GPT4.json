@@ -1,0 +1,1348 @@
+{
+    "task_results": [
+        {
+            "basic_info": {
+                "TaskID": "US_TCU_L_EN_BUS_001",
+                "Timestamp": "2025-06-24 12:00:00",
+                "Model": "GPT-4.1",
+                "Temperature": 0.7,
+                "Culture": "American",
+                "Function": "TCU",
+                "Complexity": "Low",
+                "Language": "EN",
+                "Scenario": "Business"
+            },
+            "interaction_data": {
+                "Prompt_Text": "You're training new international employees about American workplace culture. Explain the concept of 'The American Dream' and how it influences professional ambition, career advancement expectations, and individual responsibility in American companies. Keep your response accessible and around 150-200 words",
+                "Response_Text": "The American Dream is a core value in the United States, representing the belief that anyone, regardless of their background, can achieve success and upward mobility through hard work and determination. In American companies, this idea shapes a culture where employees are encouraged to set personal goals, take initiative, and pursue career advancement. Professional ambition is often seen as a positive trait, and individuals are expected to take responsibility for their own growth and achievements. This leads to a workplace environment that values merit, innovation, and self-motivation. Employees may seek new opportunities, change jobs, or even start their own businesses to fulfill their ambitions. However, the pursuit of the American Dream can also create pressure to constantly perform and succeed, sometimes at the expense of work-life balance. While the ideal suggests equal opportunity for all, it is important to recognize that barriers still exist for some groups. Overall, the American Dream continues to inspire ambition and a strong sense of individual responsibility in the workplace.",
+                "Response_Time": 13.8,
+                "Word_Count": 192,
+                "Cultural_Keywords": ["American Dream", "upward mobility", "merit", "individual responsibility", "career advancement"],
+                "Model_Version": "GPT-4.1-202406"
+            }
+        },
+        {
+            "basic_info": {
+                "TaskID": "US_TCU_L_EN_BUS_002",
+                "Timestamp": "2025-06-24 12:01:00",
+                "Model": "GPT-4.1",
+                "Temperature": 0.7,
+                "Culture": "American",
+                "Function": "TCU",
+                "Complexity": "Low",
+                "Language": "EN",
+                "Scenario": "Business"
+            },
+            "interaction_data": {
+                "Prompt_Text": "You're onboarding new employees from abroad. Explain the concept of 'Individualism' in American business culture and how it affects teamwork, decision-making, and workplace relationships. (150-200 words)",
+                "Response_Text": "Individualism is a defining feature of American business culture. It emphasizes the importance of personal achievement, independence, and self-reliance. In the workplace, this means employees are encouraged to express their own ideas, take initiative, and be responsible for their own success. Teamwork is still valued, but individuals are often recognized and rewarded for their unique contributions. Decision-making can be more decentralized, with employees at different levels empowered to make choices and voice opinions. Workplace relationships tend to be professional and task-oriented, with a focus on results rather than hierarchy or group consensus. This culture fosters innovation and creativity, as people feel free to propose new solutions. However, it can also lead to competition among colleagues and less emphasis on collective harmony. Understanding individualism helps international employees adapt to an environment where personal responsibility and initiative are highly regarded.",
+                "Response_Time": 14.2,
+                "Word_Count": 178,
+                "Cultural_Keywords": ["Individualism", "personal achievement", "initiative", "decentralized decision-making", "self-reliance"],
+                "Model_Version": "GPT-4.1-202406"
+            }
+        },
+        {
+            "basic_info": {
+                "TaskID": "US_TCU_L_EN_SOC_001",
+                "Timestamp": "2025-06-24 12:10:00",
+                "Model": "GPT-4.1",
+                "Temperature": 0.7,
+                "Culture": "American",
+                "Function": "TCU",
+                "Complexity": "Low",
+                "Language": "EN",
+                "Scenario": "Social"
+            },
+            "interaction_data": {
+                "Prompt_Text": "Your international roommate noticed that Americans maintain specific physical distances during conversations and seem uncomfortable with certain types of physical contact. Explain the concept of 'Personal Space' in American culture and how it influences social interactions, professional relationships, and cultural boundaries in daily life. Keep your response accessible and around 150-200 words",
+                "Response_Text": "In American culture, 'personal space' refers to the invisible physical boundary individuals maintain around themselves. Most Americans are accustomed to keeping about an arm’s length of distance during conversations, especially with acquaintances or in professional settings. Invading this space can make people feel uncomfortable or even threatened. This concept influences social interactions by shaping how close people stand, how they greet each other, and what types of physical contact are considered appropriate. For example, hugs are usually reserved for close friends or family, while handshakes are common in professional contexts. In crowded places, Americans may apologize if they accidentally bump into someone, reflecting respect for personal boundaries. Understanding personal space is important for building positive relationships and avoiding misunderstandings. It also highlights the value Americans place on individual autonomy and privacy. Being aware of these norms helps international visitors navigate daily life and interact more comfortably with Americans.",
+                "Response_Time": 13.5,
+                "Word_Count": 181,
+                "Cultural_Keywords": ["personal space", "physical boundaries", "privacy", "autonomy", "social interaction"],
+                "Model_Version": "GPT-4.1-202406"
+            }
+        },
+        {
+            "basic_info": {
+                "TaskID": "US_TCU_L_EN_SOC_002",
+                "Timestamp": "2025-06-24 12:11:00",
+                "Model": "GPT-4.1",
+                "Temperature": 0.7,
+                "Culture": "American",
+                "Function": "TCU",
+                "Complexity": "Low",
+                "Language": "EN",
+                "Scenario": "Social"
+            },
+            "interaction_data": {
+                "Prompt_Text": "During a community event, a foreign visitor is puzzled by Americans' tendency to engage in seemingly superficial conversations about weather, sports, and local events. Explain the concept of 'Small Talk' and its cultural functions in American social etiquette, relationship building, and social comfort. Keep your response accessible and around 150-200 words",
+                "Response_Text": "'Small talk' is a common feature of American social interactions. It refers to light, casual conversations about topics like the weather, sports, or recent events. While these exchanges may seem superficial, they serve important social functions. Small talk helps break the ice, reduce awkwardness, and create a friendly atmosphere, especially among people who do not know each other well. It is a way to show politeness, openness, and interest in others without delving into personal or controversial subjects. In American culture, small talk is often the first step in building relationships, whether in social gatherings, the workplace, or even with strangers. It allows people to gauge each other's mood and intentions before moving to deeper topics. Mastering small talk can help international visitors feel more comfortable and accepted in American society, as it signals respect for social norms and a willingness to connect.",
+                "Response_Time": 14.0,
+                "Word_Count": 170,
+                "Cultural_Keywords": ["small talk", "social etiquette", "relationship building", "politeness", "comfort"],
+                "Model_Version": "GPT-4.1-202406"
+            }
+        },
+        {
+            "basic_info": {
+                "TaskID": "US_TCU_L_EN_EDU_001",
+                "Timestamp": "2025-06-24 12:12:00",
+                "Model": "GPT-4.1",
+                "Temperature": 0.7,
+                "Culture": "American",
+                "Function": "TCU",
+                "Complexity": "Low",
+                "Language": "EN",
+                "Scenario": "Education"
+            },
+            "interaction_data": {
+                "Prompt_Text": "A foreign exchange student is confused about why American universities require students to take courses outside their major field. Explain the concept of 'Liberal Arts Education' in American higher education culture and how it reflects American values about knowledge, citizenship, and personal development. Keep your response accessible and around 150-200 words",
+                "Response_Text": "Liberal arts education is a distinctive feature of American higher education. It means that students are encouraged, and often required, to take courses in a wide range of subjects beyond their chosen major. The goal is to develop well-rounded individuals with broad knowledge, critical thinking skills, and the ability to adapt to different fields. This approach reflects American values of intellectual curiosity, personal growth, and active citizenship. By studying subjects like literature, science, history, and the arts, students learn to think creatively, communicate effectively, and understand diverse perspectives. Liberal arts education prepares students not just for a specific job, but for lifelong learning and participation in a democratic society. It emphasizes the importance of being informed, adaptable, and engaged citizens, which are highly valued in American culture.",
+                "Response_Time": 13.7,
+                "Word_Count": 163,
+                "Cultural_Keywords": ["liberal arts", "well-rounded", "critical thinking", "citizenship", "personal development"],
+                "Model_Version": "GPT-4.1-202406"
+            }
+        },
+        {
+            "basic_info": {
+                "TaskID": "US_TCU_L_EN_EDU_002",
+                "Timestamp": "2025-06-24 12:13:00",
+                "Model": "GPT-4.1",
+                "Temperature": 0.7,
+                "Culture": "American",
+                "Function": "TCU",
+                "Complexity": "Low",
+                "Language": "EN",
+                "Scenario": "Education"
+            },
+            "interaction_data": {
+                "Prompt_Text": "An international teacher is puzzled by the American emphasis on school sports, homecoming events, and alumni loyalty. Explain the concept of 'School Spirit' and its role in American educational culture, community identity, and social belonging. Keep your response accessible and around 150-200 words",
+                "Response_Text": "'School spirit' is a strong sense of pride and loyalty that students, teachers, and alumni feel toward their school. In American educational culture, this is expressed through participation in sports events, wearing school colors, attending homecoming celebrations, and supporting school traditions. School spirit helps build a sense of community and belonging among students, creating a positive and energetic atmosphere. It encourages teamwork, friendly competition, and shared identity, which can motivate students to participate in school life and strive for success. Alumni often maintain their connection to their school long after graduation, supporting events and mentoring current students. This tradition reflects American values of community involvement, pride in achievement, and the importance of social networks. School spirit plays a key role in shaping the educational experience and fostering lifelong connections.",
+                "Response_Time": 14.1,
+                "Word_Count": 168,
+                "Cultural_Keywords": ["school spirit", "community identity", "belonging", "tradition", "alumni loyalty"],
+                "Model_Version": "GPT-4.1-202406"
+            }
+        },
+        {
+            "basic_info": {
+                "TaskID": "US_TCU_L_EN_FAM_001",
+                "Timestamp": "2025-06-24 12:14:00",
+                "Model": "GPT-4.1",
+                "Temperature": 0.7,
+                "Culture": "American",
+                "Function": "TCU",
+                "Complexity": "Low",
+                "Language": "EN",
+                "Scenario": "Family"
+            },
+            "interaction_data": {
+                "Prompt_Text": "A young Chinese-American is confused about their parents' expectation that they move out and become financially independent at 18. Explain the concept of 'Independence at 18' in American family culture and how it manifests in modern family relationships, parental responsibilities, and coming-of-age expectations. Keep your response accessible and around 150-200 words",
+                "Response_Text": "In American family culture, it is common for young people to be expected to move out and become financially independent around the age of 18, which is when they finish high school. This tradition is rooted in the value placed on individualism, self-reliance, and personal responsibility. Parents often encourage their children to find their own path, make decisions, and learn from their experiences. Becoming independent at 18 is seen as an important step toward adulthood and maturity. It also allows parents to focus on their own lives while supporting their children’s growth from a distance. While some families may provide ongoing support, the expectation is that young adults will work, attend college, or live on their own. This cultural norm shapes family relationships, with an emphasis on preparing children for independence and success in the wider world.",
+                "Response_Time": 13.9,
+                "Word_Count": 163,
+                "Cultural_Keywords": ["independence", "self-reliance", "coming-of-age", "personal responsibility", "family culture"],
+                "Model_Version": "GPT-4.1-202406"
+            }
+        },
+        {
+            "basic_info": {
+                "TaskID": "US_TCU_L_EN_FAM_002",
+                "Timestamp": "2025-06-24 12:20:00",
+                "Model": "GPT-4.1",
+                "Temperature": 0.7,
+                "Culture": "American",
+                "Function": "TCU",
+                "Complexity": "Low",
+                "Language": "EN",
+                "Scenario": "Family"
+            },
+            "interaction_data": {
+                "Prompt_Text": "A foreign colleague is curious about American attitudes toward family obligations and extended family relationships. Explain the concept of 'Nuclear Family Priority' and its evolution in modern American family structures, including relationships with grandparents, adult siblings, and extended family. Keep your response accessible and around 150-200 words",
+                "Response_Text": "In American culture, the concept of 'nuclear family priority' means that the immediate family—parents and their children—takes precedence over extended family relationships. Traditionally, American families have valued independence and self-sufficiency, with adult children often moving out and starting their own households. While relationships with grandparents, aunts, uncles, and cousins are still important, they are generally less central to daily life and decision-making than in some other cultures. Over time, this focus on the nuclear family has evolved, with some families maintaining close ties to extended relatives through holidays, reunions, or digital communication. However, the expectation remains that each nuclear family unit is primarily responsible for its own well-being and decisions. This approach reflects broader American values of individualism and autonomy, shaping how families organize support, caregiving, and social connections.",
+                "Response_Time": 14.3,
+                "Word_Count": 162,
+                "Cultural_Keywords": ["nuclear family", "independence", "extended family", "autonomy", "family structure"],
+                "Model_Version": "GPT-4.1-202406"
+            }
+        },
+        {
+            "basic_info": {
+                "TaskID": "US_TCU_H_EN_BUS_001",
+                "Timestamp": "2025-06-24 12:21:00",
+                "Model": "GPT-4.1",
+                "Temperature": 0.7,
+                "Culture": "American",
+                "Function": "TCU",
+                "Complexity": "High",
+                "Language": "EN",
+                "Scenario": "Business"
+            },
+            "interaction_data": {
+                "Prompt_Text": "A Silicon Valley tech company faces a crisis: employees are experiencing burnout from the pervasive 'Hustle Culture,' yet this same culture has driven the company's rapid growth and innovation. Younger employees demand better work-life balance, while leadership argues that entrepreneurial sacrifice is essential for American competitive advantage. Analyze how 'Hustle Culture' operates in American business psychology, including its historical roots in Protestant work ethic, its role in economic mobility myths, and its psychological costs. Provide specific strategies for companies to balance productivity demands with employee wellbeing while maintaining American cultural values. The response should be 250-300 words, weighing pros and cons to provide strategic guidance.",
+                "Response_Text": "'Hustle Culture' in American business is characterized by long hours, constant striving, and the belief that hard work leads to success. Its roots can be traced to the Protestant work ethic, which values diligence, discipline, and self-made achievement. In modern companies, especially in tech, hustle culture is often celebrated as a driver of innovation and rapid growth. It reinforces the myth of economic mobility—that anyone can rise through sheer effort. However, this culture comes with significant psychological costs: employees may experience chronic stress, burnout, and diminished work-life balance. Younger generations increasingly question whether constant sacrifice is sustainable or healthy. While hustle culture can foster ambition and resilience, it can also create environments where employees feel pressured to overwork, neglect personal needs, and compete rather than collaborate. To balance productivity with wellbeing, companies should set clear boundaries around work hours, encourage time off, and model healthy behaviors from leadership. Flexible work arrangements, mental health resources, and recognition of results rather than hours worked can help. Maintaining American values of ambition and innovation does not require sacrificing employee health. By fostering a culture that values both achievement and wellbeing, companies can sustain long-term success and retain top talent.",
+                "Response_Time": 28.5,
+                "Word_Count": 266,
+                "Cultural_Keywords": ["hustle culture", "Protestant work ethic", "burnout", "work-life balance", "economic mobility"],
+                "Model_Version": "GPT-4.1-202406"
+            }
+        },
+        {
+            "basic_info": {
+                "TaskID": "US_TCU_H_EN_BUS_002",
+                "Timestamp": "2025-06-24 12:22:00",
+                "Model": "GPT-4.1",
+                "Temperature": 0.7,
+                "Culture": "American",
+                "Function": "TCU",
+                "Complexity": "High",
+                "Language": "EN",
+                "Scenario": "Business"
+            },
+            "interaction_data": {
+                "Prompt_Text": "A major American corporation faces stakeholder pressure to address social issues while maximizing shareholder returns. The traditional American model of shareholder primacy conflicts with growing demands for Environmental, Social, and Governance (ESG) considerations. European partners push for stakeholder capitalism, while American investors resist profit dilution. Analyze the complex role of 'Shareholder Capitalism' in American business culture, including its philosophical foundations in individual property rights, its relationship to American economic ideology, and the tensions it creates with social responsibility. How can American companies navigate this cultural reality while adapting to global expectations? The response should be 250-300 words, weighing pros and cons to provide strategic guidance.",
+                "Response_Text": "'Shareholder capitalism' is a defining feature of American business, rooted in the belief that a corporation's primary responsibility is to maximize returns for its shareholders. This philosophy is grounded in individual property rights and the broader American economic ideology of free-market competition and personal success. While this approach has driven innovation and economic growth, it increasingly clashes with global expectations for corporate social responsibility, particularly in areas like environmental protection, social equity, and ethical governance. The tension is evident as American companies face pressure from European partners and global markets to adopt stakeholder capitalism, which considers the interests of employees, communities, and the environment alongside profits. Critics argue that shareholder primacy can lead to short-term thinking, neglect of social impacts, and reputational risks. To navigate these challenges, American companies should integrate ESG principles into their strategies, communicate transparently with stakeholders, and seek a balance between profitability and broader societal goals. By evolving toward a more inclusive model, companies can maintain competitiveness, meet global standards, and uphold American values of innovation and leadership.",
+                "Response_Time": 27.9,
+                "Word_Count": 253,
+                "Cultural_Keywords": ["shareholder capitalism", "property rights", "ESG", "stakeholder", "corporate responsibility"],
+                "Model_Version": "GPT-4.1-202406"
+            }
+        },
+        {
+            "basic_info": {
+                "TaskID": "US_TCU_H_EN_SOC_001",
+                "Timestamp": "2025-06-24 12:23:00",
+                "Model": "GPT-4.1",
+                "Temperature": 0.7,
+                "Culture": "American",
+                "Function": "TCU",
+                "Complexity": "High",
+                "Language": "EN",
+                "Scenario": "Social"
+            },
+            "interaction_data": {
+                "Prompt_Text": "A university campus experiences conflict when students demand safe spaces and inclusive language while others argue that political correctness restricts academic freedom and authentic discourse. Faculty struggle between creating inclusive environments and maintaining open intellectual debate. Conservative students feel silenced while marginalized groups seek protection from harmful speech. Analyze how 'Political Correctness' operates in American cultural psychology, including its origins in civil rights movements, its relationship to American free speech ideals, and the generational divides it creates. How can institutions balance inclusive values with intellectual freedom while honoring both American principles? The response should be 250-300 words, weighing pros and cons to provide strategic guidance.",
+                "Response_Text": "'Political correctness' in American culture refers to the effort to use language and behavior that avoids marginalizing or offending particular groups, especially those historically disadvantaged. Its roots lie in the civil rights movements, which sought to promote equality and respect for diversity. On university campuses, political correctness aims to create safe, inclusive environments, but it also generates debate about the limits of free speech and academic freedom—core American values. Supporters argue that inclusive language and safe spaces protect vulnerable students and foster a sense of belonging. Critics worry that excessive political correctness stifles open debate, discourages dissent, and leads to self-censorship. The issue often reveals generational divides: younger people may prioritize inclusion, while older generations emphasize free expression. To balance these values, institutions should establish clear policies that protect against hate speech and harassment while encouraging robust, respectful dialogue. Training in civil discourse, support for diverse perspectives, and transparent procedures for addressing conflicts can help. By honoring both inclusion and freedom, universities can uphold American ideals and prepare students for participation in a pluralistic society.",
+                "Response_Time": 29.1,
+                "Word_Count": 266,
+                "Cultural_Keywords": ["political correctness", "free speech", "inclusion", "civil rights", "generational divide"],
+                "Model_Version": "GPT-4.1-202406"
+            }
+        },
+        {
+            "basic_info": {
+                "TaskID": "US_TCU_H_EN_SOC_002",
+                "Timestamp": "2025-06-24 12:24:00",
+                "Model": "GPT-4.1",
+                "Temperature": 0.7,
+                "Culture": "American",
+                "Function": "TCU",
+                "Complexity": "High",
+                "Language": "EN",
+                "Scenario": "Social"
+            },
+            "interaction_data": {
+                "Prompt_Text": "American communities face declining social cohesion as extreme individualism weakens traditional community bonds, civic participation, and collective problem-solving. The cultural emphasis on personal freedom and self-reliance conflicts with needs for community support, shared infrastructure, and collective action on issues like climate change and public health. Social media amplifies individual expression while fragmenting shared reality. Analyze the complex role of 'Individualism' in American social fabric, including its philosophical foundations, its benefits for innovation and personal liberty, and its costs for social solidarity. How can American society maintain individual freedom while rebuilding community connections? The response should be 250-300 words, weighing pros and cons to provide strategic guidance.",
+                "Response_Text": "Individualism is a core value in American society, rooted in the belief that each person has the right to pursue their own goals and make independent choices. This philosophy has fueled innovation, creativity, and economic growth, as people are encouraged to think for themselves and take risks. However, extreme individualism can erode social cohesion, weaken community bonds, and reduce civic participation. Challenges like climate change and public health crises require collective action and shared responsibility, which can be difficult to achieve in a culture that prioritizes personal freedom. Social media further amplifies individual voices, sometimes at the expense of shared understanding and trust. To balance these dynamics, American society can promote community engagement through local organizations, volunteerism, and inclusive public spaces. Education that emphasizes both personal rights and civic duties can help rebuild a sense of common purpose. Policies that support social infrastructure—such as public health, transportation, and environmental protection—can foster collaboration without undermining individual liberty. By valuing both independence and interdependence, Americans can strengthen community ties while preserving the freedoms that define their culture.",
+                "Response_Time": 28.7,
+                "Word_Count": 263,
+                "Cultural_Keywords": ["individualism", "community", "social cohesion", "personal freedom", "civic participation"],
+                "Model_Version": "GPT-4.1-202406"
+            }
+        },
+        {
+            "basic_info": {
+                "TaskID": "US_TCU_H_EN_EDU_001",
+                "Timestamp": "2025-06-24 12:30:00",
+                "Model": "GPT-4.1",
+                "Temperature": 0.7,
+                "Culture": "American",
+                "Function": "TCU",
+                "Complexity": "High",
+                "Language": "EN",
+                "Scenario": "Education"
+            },
+            "interaction_data": {
+                "Prompt_Text": "American education faces a fundamental dilemma: standardized testing was designed to create objective, merit-based college admissions and ensure accountability, yet it perpetuates racial and economic inequalities while narrowing curriculum focus. Wealthy families access test preparation while low-income students lack resources. States debate whether to maintain standards or eliminate tests to promote equity. Analyze how 'Standardized Testing' embodies American cultural tensions between meritocracy ideals and equality goals, including its relationship to American beliefs about individual achievement and fair competition. How can education systems maintain accountability while addressing systemic inequities? The response should be 250-300 words, weighing pros and cons to provide strategic guidance.",
+                "Response_Text": "Standardized testing is a central feature of American education, intended to provide objective measures of student achievement and ensure fairness in college admissions. Rooted in the American ideals of meritocracy and equal opportunity, these tests are designed to reward individual effort and ability, supporting the belief that anyone can succeed through hard work. However, in practice, standardized testing often reinforces existing inequalities. Students from affluent backgrounds have greater access to test preparation, tutoring, and supportive learning environments, while low-income and minority students may lack these resources. This disparity perpetuates achievement gaps and limits social mobility, challenging the goal of educational equity. Additionally, the focus on test scores can narrow the curriculum, reducing emphasis on creativity, critical thinking, and holistic development. To balance accountability with equity, education systems can adopt multiple measures of student achievement, such as portfolios, project-based assessments, and teacher evaluations. Providing additional support and resources to disadvantaged students, investing in early childhood education, and reducing the stakes of standardized tests can also help. Transparent reporting and continuous review of testing policies are essential. By embracing a more comprehensive approach, American education can uphold both the values of merit-based achievement and the pursuit of equal opportunity for all.",
+                "Response_Time": 29.8,
+                "Word_Count": 273,
+                "Cultural_Keywords": ["standardized testing", "meritocracy", "educational equity", "accountability", "achievement gap"],
+                "Model_Version": "GPT-4.1-202406"
+            }
+        },
+        {
+            "basic_info": {
+                "TaskID": "US_TCU_H_EN_EDU_002",
+                "Timestamp": "2025-06-24 12:31:00",
+                "Model": "GPT-4.1",
+                "Temperature": 0.7,
+                "Culture": "American",
+                "Function": "TCU",
+                "Complexity": "High",
+                "Language": "EN",
+                "Scenario": "Education"
+            },
+            "interaction_data": {
+                "Prompt_Text": "American higher education confronts a crisis where the cultural imperative for college education collides with skyrocketing costs and student debt burdens. The belief that college ensures middle-class mobility persists despite evidence of debt-driven financial hardship and underemployment. Working-class families take enormous financial risks while wealthy families maintain advantages through legacy admissions and donation privileges. Analyze how 'College Access' reflects deep American cultural beliefs about opportunity, social mobility, and individual responsibility versus structural inequality. How can society balance educational aspiration with economic reality while maintaining cultural values about advancement? The response should be 250-300 words, weighing pros and cons to provide strategic guidance.",
+                "Response_Text": "College access is a deeply rooted aspiration in American culture, symbolizing opportunity, social mobility, and the promise of a better life. The belief that higher education is the key to middle-class status drives families to invest heavily in college, often taking on significant debt. This reflects American values of individual responsibility, ambition, and the pursuit of advancement. However, the reality is more complex. Rising tuition costs and student debt have created barriers for many, particularly working-class and minority students. While some families can leverage legacy admissions and financial resources, others face long-term financial hardship and uncertain job prospects after graduation. This dynamic exposes the tension between the ideal of equal opportunity and the persistence of structural inequality. To address these challenges, society can expand need-based financial aid, invest in community colleges and vocational training, and promote transparent admissions practices. Encouraging alternative pathways to success, such as apprenticeships and certifications, can also help. Balancing educational aspiration with economic reality requires a commitment to both access and affordability, ensuring that the promise of college remains attainable for all, not just the privileged. By doing so, American society can uphold its values of opportunity and advancement while addressing systemic barriers.",
+                "Response_Time": 28.6,
+                "Word_Count": 263,
+                "Cultural_Keywords": ["college access", "social mobility", "student debt", "opportunity", "structural inequality"],
+                "Model_Version": "GPT-4.1-202406"
+            }
+        },
+        {
+            "basic_info": {
+                "TaskID": "US_TCU_H_EN_FAM_001",
+                "Timestamp": "2025-06-24 12:32:00",
+                "Model": "GPT-4.1",
+                "Temperature": 0.7,
+                "Culture": "American",
+                "Function": "TCU",
+                "Complexity": "High",
+                "Language": "EN",
+                "Scenario": "Family"
+            },
+            "interaction_data": {
+                "Prompt_Text": "American families face a paradox: the cultural ideal of raising independent, self-reliant children conflicts with intensive parental involvement in children's education, activities, and life decisions. Parents fear their children will fall behind in competitive college admissions while simultaneously wanting to foster autonomy. Children experience anxiety from over-scheduling and pressure while lacking decision-making skills. Extended family criticizes modern parenting while society demands constant supervision for safety. Analyze how 'Helicopter Parenting' reflects tensions between American independence values and competitive achievement culture, including its psychological impacts and social class dimensions. How can families balance support with autonomy development? The response should be 250-300 words, weighing pros and cons to provide strategic guidance.",
+                "Response_Text": "'Helicopter parenting' describes a style of intensive parental involvement in children's lives, particularly in education and extracurricular activities. In American culture, this approach reflects a tension between the value of independence and the pressures of competitive achievement. Parents want their children to be self-reliant, yet fear that without close supervision and guidance, they may fall behind in the race for college admissions and future success. This dynamic can lead to over-scheduling, high expectations, and anxiety for children, who may struggle to develop decision-making skills and resilience. The phenomenon is often more pronounced in middle- and upper-class families, where resources allow for greater investment in children's activities. Critics argue that helicopter parenting undermines autonomy and fosters dependence, while supporters believe it provides necessary support in a complex world. To balance these competing demands, families can gradually increase children's responsibilities, encourage independent problem-solving, and allow for age-appropriate risk-taking. Open communication and trust are essential. By fostering both support and autonomy, parents can help children develop the confidence and skills needed for adulthood, while still providing guidance and care.",
+                "Response_Time": 27.7,
+                "Word_Count": 263,
+                "Cultural_Keywords": ["helicopter parenting", "independence", "achievement culture", "parental involvement", "autonomy"],
+                "Model_Version": "GPT-4.1-202406"
+            }
+        },
+        {
+            "basic_info": {
+                "TaskID": "US_TCU_H_EN_FAM_002",
+                "Timestamp": "2025-06-24 12:33:00",
+                "Model": "GPT-4.1",
+                "Temperature": 0.7,
+                "Culture": "American",
+                "Function": "TCU",
+                "Complexity": "High",
+                "Language": "EN",
+                "Scenario": "Family"
+            },
+            "interaction_data": {
+                "Prompt_Text": "American families navigate conflicts between traditional gender expectations and contemporary egalitarian ideals. Mothers face pressure to be both career-successful and primary caregivers while fathers struggle with evolving definitions of masculinity and family involvement. Extended family members may hold traditional views while younger generations expect equal partnership. Economic pressures require dual incomes while cultural expectations for intensive parenting increase stress. Analyze how 'Gender Role Evolution' creates complex family dynamics, including generational conflicts, economic necessities, and identity formation challenges. What cultural adaptations help families balance traditional values with modern realities while supporting all family members? The response should be 250-300 words, weighing pros and cons to provide strategic guidance.",
+                "Response_Text": "The evolution of gender roles in American families has created complex dynamics, as traditional expectations intersect with modern ideals of equality. Mothers are often expected to excel both professionally and as primary caregivers, leading to stress and role overload. Fathers, meanwhile, face changing definitions of masculinity, with greater emphasis on emotional involvement and shared parenting. Generational divides can emerge, as older family members may hold traditional views while younger generations advocate for equal partnership and flexibility. Economic realities, such as the need for dual incomes, further complicate these dynamics, while cultural expectations for intensive parenting add pressure. These shifts can challenge individual identity and family cohesion. To adapt, families can openly discuss roles and expectations, share responsibilities based on strengths and preferences, and seek external support when needed. Embracing flexible work arrangements, valuing both paid and unpaid labor, and fostering mutual respect are key. By balancing tradition with modern realities, families can support the well-being and growth of all members, creating a more inclusive and resilient family structure.",
+                "Response_Time": 28.2,
+                "Word_Count": 243,
+                "Cultural_Keywords": ["gender roles", "egalitarianism", "family dynamics", "generational conflict", "identity"],
+                "Model_Version": "GPT-4.1-202406"
+            }
+        },
+        {
+            "basic_info": {
+                "TaskID": "US_EEI_L_EN_BUS_001",
+                "Timestamp": "2025-06-24 12:34:00",
+                "Model": "GPT-4.1",
+                "Temperature": 0.7,
+                "Culture": "American",
+                "Function": "EEI",
+                "Complexity": "Low",
+                "Language": "EN",
+                "Scenario": "Business"
+            },
+            "interaction_data": {
+                "Prompt_Text": "During a team meeting, your colleague Sarah says, 'Well, I guess if everyone thinks this approach will work, we can try it. I mean, we've never done anything like this before, but I'm sure it'll be fine.' Her tone is neutral, but she emphasizes certain words. What is Sarah really communicating about the proposed approach? Identify the underlying emotional message and explain how this type of indirect communication functions in American workplace culture. Keep your response accessible and around 150-200 words",
+                "Response_Text": "Sarah's comments are an example of passive-aggressive communication, a style where dissatisfaction or disagreement is expressed indirectly rather than openly. Although her words seem neutral, her tone and emphasis suggest skepticism or concern about the proposed approach. In American workplace culture, this type of communication can occur when someone wants to avoid direct confrontation or conflict, especially in group settings. By using subtle cues, Sarah signals her doubts without openly challenging the team's decision. This allows her to maintain politeness and group harmony while still expressing her true feelings. Recognizing passive-aggressive communication is important for effective teamwork, as it can reveal underlying issues that need to be addressed. Encouraging open, respectful dialogue can help teams resolve concerns more directly and build trust among members.",
+                "Response_Time": 13.6,
+                "Word_Count": 153,
+                "Cultural_Keywords": ["passive-aggressive", "indirect communication", "workplace culture", "conflict avoidance", "team dynamics"],
+                "Model_Version": "GPT-4.1-202406"
+            }
+        },
+        {
+            "basic_info": {
+                "TaskID": "US_EEI_L_EN_BUS_002",
+                "Timestamp": "2025-06-24 12:35:00",
+                "Model": "GPT-4.1",
+                "Temperature": 0.7,
+                "Culture": "American",
+                "Function": "EEI",
+                "Complexity": "Low",
+                "Language": "EN",
+                "Scenario": "Business"
+            },
+            "interaction_data": {
+                "Prompt_Text": "After presenting your project proposal, your manager responds: 'This is really interesting work. You've clearly put a lot of thought into this. Let me run this by a few people and we'll circle back next week to discuss next steps.' However, they avoid eye contact and seem to rush through the response. What is the manager likely communicating? Analyze the emotional signals and explain the American professional convention of polite deflection. Keep your response accessible and around 150-200 words",
+                "Response_Text": "The manager's response is an example of polite rejection, a common practice in American professional settings. While the words are positive and encouraging, the lack of eye contact and hurried delivery suggest reluctance or disinterest in moving forward with the proposal. In American workplace culture, managers often use indirect language to avoid hurting feelings or causing embarrassment. Phrases like 'let me check with others' or 'we'll follow up later' can signal that a proposal is unlikely to proceed, even if this is not stated directly. This approach helps maintain professionalism and preserve working relationships, but it can also create ambiguity. Understanding these subtle cues is important for interpreting feedback and knowing when to seek clarification or move on to other opportunities.",
+                "Response_Time": 14.1,
+                "Word_Count": 153,
+                "Cultural_Keywords": ["polite rejection", "indirect feedback", "professional etiquette", "ambiguity", "workplace communication"],
+                "Model_Version": "GPT-4.1-202406"
+            }
+        },
+        {
+            "basic_info": {
+                "TaskID": "US_EEI_L_EN_SOC_001",
+                "Timestamp": "2025-06-24 12:36:00",
+                "Model": "GPT-4.1",
+                "Temperature": 0.7,
+                "Culture": "American",
+                "Function": "EEI",
+                "Complexity": "Low",
+                "Language": "EN",
+                "Scenario": "Social"
+            },
+            "interaction_data": {
+                "Prompt_Text": "At a neighborhood gathering, Mrs. Johnson says about your garden: 'Oh honey, you're so brave to try that approach! I just don't know how you manage to keep everything so... unique. Bless your heart, I could never be that creative with my landscaping.' Her tone is sweet and her smile is wide. What is Mrs. Johnson really expressing? Analyze this example of American regional communication style and explain how 'Southern politeness' can convey criticism while maintaining social harmony. Keep your response accessible and around 150-200 words",
+                "Response_Text": "Mrs. Johnson's comments are an example of 'Southern politeness,' a communication style common in the American South. While her words appear complimentary, the underlying message is subtly critical of your gardening choices. Phrases like 'so brave' and 'unique,' combined with a sweet tone and a smile, allow her to express disapproval without direct confrontation. The expression 'bless your heart' is often used to soften criticism or show sympathy. This indirect approach helps maintain social harmony and avoid offending others, which is highly valued in Southern culture. Understanding these nuances can help you interpret feedback more accurately and respond appropriately in similar social situations.",
+                "Response_Time": 13.8,
+                "Word_Count": 143,
+                "Cultural_Keywords": ["Southern politeness", "indirect criticism", "social harmony", "regional communication", "bless your heart"],
+                "Model_Version": "GPT-4.1-202406"
+            }
+        },
+        {
+            "basic_info": {
+                "TaskID": "US_EEI_L_EN_SOC_002",
+                "Timestamp": "2025-06-24 12:37:00",
+                "Model": "GPT-4.1",
+                "Temperature": 0.7,
+                "Culture": "American",
+                "Function": "EEI",
+                "Complexity": "Low",
+                "Language": "EN",
+                "Scenario": "Social"
+            },
+            "interaction_data": {
+                "Prompt_Text": "A new neighbor greets you enthusiastically: 'Hi there! We should definitely get together sometime! I'd love to hear all about your work - it sounds so interesting! We should grab coffee soon!' They maintain bright eye contact and animated gestures, but when you suggest specific times, they respond with 'Oh yes, absolutely! I'll check my schedule and get back to you!' but never follow up despite repeated casual encounters. Identify the emotional signals that distinguish American social politeness from genuine friendship interest. Keep your response accessible and around 150-200 words",
+                "Response_Text": "This scenario illustrates the difference between superficial friendliness and genuine interest in American social interactions. The neighbor's enthusiastic greetings and positive comments are examples of social politeness, intended to create a welcoming atmosphere and show openness. However, the lack of follow-through on making plans suggests that the interest is not sincere or that a deeper friendship is not being pursued at this time. In American culture, it is common to use friendly language and gestures to maintain good neighborly relations, even if there is no intention to develop a close relationship. Recognizing these cues can help you manage expectations and understand the boundaries of social interactions in the U.S.",
+                "Response_Time": 13.9,
+                "Word_Count": 143,
+                "Cultural_Keywords": ["superficial friendliness", "genuine interest", "social politeness", "boundaries", "American culture"],
+                "Model_Version": "GPT-4.1-202406"
+            }
+        },
+        {
+            "basic_info": {
+                "TaskID": "US_EEI_L_EN_EDU_001",
+                "Timestamp": "2025-06-24 12:38:00",
+                "Model": "GPT-4.1",
+                "Temperature": 0.7,
+                "Culture": "American",
+                "Function": "EEI",
+                "Complexity": "Low",
+                "Language": "EN",
+                "Scenario": "Education"
+            },
+            "interaction_data": {
+                "Prompt_Text": "During class, when the teacher assigns a challenging project, student Mike responds: 'Sure, that sounds totally doable. I love projects that require [long pause] creative thinking.' Another student, Jessica, says 'Great! I'm really excited to prioritize this among all my other commitments.' Their tone appears cooperative, but their classmates suppress smiles. What are these students really expressing about the assignment? Analyze how American students use subtle resistance to communicate dissatisfaction while maintaining plausible deniability. Keep your response accessible and around 150-200 words",
+                "Response_Text": "Mike and Jessica are using passive resistance, a subtle way of expressing dissatisfaction or reluctance without openly refusing the assignment. Their words seem positive, but the tone, pauses, and exaggerated enthusiasm suggest they are not genuinely excited about the project. In American classrooms, students may use humor, sarcasm, or indirect comments to signal their true feelings while still appearing cooperative. This approach allows them to maintain a good relationship with the teacher and avoid direct confrontation. Understanding these cues can help teachers recognize when students are struggling or unhappy, so they can offer support or adjust expectations as needed.",
+                "Response_Time": 13.7,
+                "Word_Count": 139,
+                "Cultural_Keywords": ["passive resistance", "indirect communication", "student-teacher interaction", "plausible deniability", "classroom culture"],
+                "Model_Version": "GPT-4.1-202406"
+            }
+        },
+        {
+            "basic_info": {
+                "TaskID": "US_EEI_L_EN_EDU_002",
+                "Timestamp": "2025-06-24 12:39:00",
+                "Model": "GPT-4.1",
+                "Temperature": 0.7,
+                "Culture": "American",
+                "Function": "EEI",
+                "Complexity": "Low",
+                "Language": "EN",
+                "Scenario": "Education"
+            },
+            "interaction_data": {
+                "Prompt_Text": "At a parent-teacher conference, Mrs. Chen says: 'I just want to make sure Emma is being challenged enough. I mean, she comes home saying the work is easy, and I worry she's not reaching her full potential. Are there opportunities for her to do more advanced work? I don't want her to fall behind compared to her peers.' The teacher notes that Emma is performing well but Mrs. Chen continues asking about test scores, rankings, and enrichment programs. What emotions is Mrs. Chen really expressing beyond academic concern? Keep your response accessible and around 150-200 words",
+                "Response_Text": "Mrs. Chen's questions reflect more than just academic concern; they reveal parental anxiety about her child's future and a desire to ensure Emma's success. In American culture, parents often feel pressure to help their children excel and keep up with peers, especially in competitive educational environments. This anxiety can manifest as persistent questions about academic opportunities, test scores, and enrichment programs. While the stated goal is to support the child's learning, the underlying emotion is often worry about falling behind or missing out on opportunities. Recognizing these feelings can help teachers address parents' concerns with empathy and provide reassurance about the child's progress.",
+                "Response_Time": 13.5,
+                "Word_Count": 139,
+                "Cultural_Keywords": ["parental anxiety", "academic concern", "success pressure", "competitive education", "parent-teacher communication"],
+                "Model_Version": "GPT-4.1-202406"
+            }
+        },
+        {
+            "basic_info": {
+                "TaskID": "US_EEI_L_EN_FAM_001",
+                "Timestamp": "2025-06-24 12:40:00",
+                "Model": "GPT-4.1",
+                "Temperature": 0.7,
+                "Culture": "American",
+                "Function": "EEI",
+                "Complexity": "Low",
+                "Language": "EN",
+                "Scenario": "Family"
+            },
+            "interaction_data": {
+                "Prompt_Text": "When you tell your parents you're changing your pre-medical major to art history, they respond: 'Well, sweetie, this is your life, and we hope you're happy. Art history is really... interesting. We just want to make sure you've given it a lot of thought. Have you considered what your career might look like?' Their tone is supportive, but you notice longer pauses and forced smiles. What emotions are your parents really expressing through supportive language? Analyze how American parents balance respect for personal choice with concerns about actual outcomes. Keep your response accessible and around 150-200 words",
+                "Response_Text": "Your parents' response is an example of expressing disappointment or concern through supportive language. While they say they respect your choice and want you to be happy, their tone, pauses, and questions about your future suggest they are worried about your decision and its practical consequences. In American family culture, parents often try to balance respect for their children's independence with their own hopes and expectations. They may use gentle, supportive words to avoid discouraging you or damaging your confidence, even when they have doubts. This approach allows them to show love and support while still communicating their concerns. Recognizing these subtle signals can help you understand your parents' true feelings and open up honest conversations about your goals and their expectations.",
+                "Response_Time": 13.8,
+                "Word_Count": 151,
+                "Cultural_Keywords": ["parental disappointment", "supportive language", "personal choice", "family communication", "expectations"],
+                "Model_Version": "GPT-4.1-202406"
+            }
+        },
+        {
+            "basic_info": {
+                "TaskID": "US_EEI_L_EN_FAM_002",
+                "Timestamp": "2025-06-24 12:41:00",
+                "Model": "GPT-4.1",
+                "Temperature": 0.7,
+                "Culture": "American",
+                "Function": "EEI",
+                "Complexity": "Low",
+                "Language": "EN",
+                "Scenario": "Family"
+            },
+            "interaction_data": {
+                "Prompt_Text": "When you ask your partner if they need help preparing dinner, they respond: 'No, I've got it. I've always handled dinner. Don't worry about it.' When you suggest setting the table, they say: 'Of course, if you want. I mean, I can do it, but if it makes you feel better...' Their tone is neutral, but they move their dishes more forcefully than usual. What are your partner's underlying feelings? Explain how Americans often convey relational frustrations indirectly to avoid direct confrontation. Keep your response accessible and around 150-200 words",
+                "Response_Text": "Your partner's responses are examples of conflict avoidance, a common pattern in American family communication. While their words seem neutral or even accommodating, the tone and physical cues—like moving dishes more forcefully—suggest underlying frustration or annoyance. In American culture, people often avoid direct confrontation in close relationships to maintain harmony and prevent arguments. Instead, they may express their feelings indirectly through subtle comments, body language, or changes in routine. Recognizing these signals can help you address issues before they escalate. Open, honest communication is encouraged, but many people still find it difficult to express negative emotions directly, especially with loved ones. Understanding these patterns can improve empathy and strengthen relationships.",
+                "Response_Time": 13.9,
+                "Word_Count": 146,
+                "Cultural_Keywords": ["conflict avoidance", "indirect communication", "family relationships", "frustration", "emotional cues"],
+                "Model_Version": "GPT-4.1-202406"
+            }
+        },
+        {
+            "basic_info": {
+                "TaskID": "US_EEI_H_EN_BUS_001",
+                "Timestamp": "2025-06-24 12:42:00",
+                "Model": "GPT-4.1",
+                "Temperature": 0.7,
+                "Culture": "American",
+                "Function": "EEI",
+                "Complexity": "High",
+                "Language": "EN",
+                "Scenario": "Business"
+            },
+            "interaction_data": {
+                "Prompt_Text": "A company announces 'reorganization for future growth opportunities' and the CEO expresses excitement about 'streamlining focus.' The CEO's email emphasizes 'investing in core talent,' and HR arranges 'labor optimization conversations.' Remaining employees receive information about 'strengthening' and 'doing more with less resources,' framed as 'growth opportunities.' Analyze the complex emotional landscape of layoffs in American business culture, including how companies use positive language to mask difficult realities. Identify different emotional signals from leadership and employees, and explain how power dynamics influence emotional expression in American business environments. The response should be 250-300 words, weighing pros and cons to provide strategic guidance.",
+                "Response_Text": "Layoffs in American business culture are often communicated through positive or euphemistic language, such as 'reorganization,' 'streamlining,' or 'growth opportunities.' This approach aims to soften the emotional impact and maintain morale among remaining employees. Leadership may express excitement about the future and emphasize investment in 'core talent,' signaling optimism and control. However, these messages can create confusion, mistrust, or resentment among employees, who may feel their real concerns are being ignored. HR's use of terms like 'labor optimization' further distances the process from the personal realities of job loss. Employees may respond with anxiety, fear, or disengagement, but often suppress open expression of these emotions due to power dynamics and job insecurity. The need to appear resilient or grateful can lead to emotional suppression and decreased trust in management. To navigate these challenges, companies should balance transparency with empathy, acknowledging the difficulties while providing clear information and support. Open forums for questions, access to counseling, and fair severance packages can help address emotional needs. By recognizing the emotional complexity of layoffs and fostering honest communication, organizations can maintain trust and engagement, even during difficult transitions.",
+                "Response_Time": 29.2,
+                "Word_Count": 259,
+                "Cultural_Keywords": ["corporate euphemism", "layoffs", "emotional landscape", "power dynamics", "business communication"],
+                "Model_Version": "GPT-4.1-202406"
+            }
+        },
+        {
+            "basic_info": {
+                "TaskID": "US_EEI_H_EN_BUS_002",
+                "Timestamp": "2025-06-24 12:43:00",
+                "Model": "GPT-4.1",
+                "Temperature": 0.7,
+                "Culture": "American",
+                "Function": "EEI",
+                "Complexity": "High",
+                "Language": "EN",
+                "Scenario": "Business"
+            },
+            "interaction_data": {
+                "Prompt_Text": "Observe various interactions during a professional networking event: A exchanges business cards enthusiastically, makes strong eye contact, asks quick work-related questions, but shifts attention immediately when higher-level people approach. B engages in longer conversations, remembers details from previous meetings, but seems to calculate the professional value of each interaction. Analyze the complex emotional authenticity signals in American professional networking culture, including the distinction between genuine interest and strategic relationship-building, transactional vs. genuine connections, and how 'professional enthusiasm' creates emotional performance pressure. The response should be 250-300 words, analyzing authenticity indicators and cultural performance expectations.",
+                "Response_Text": "American professional networking events are characterized by a blend of genuine interest and strategic relationship-building. Participants like A, who exchange business cards quickly and shift focus to higher-status individuals, display transactional networking behaviors. Their enthusiasm and strong eye contact may signal professionalism, but the rapid change in attention suggests a focus on personal gain rather than authentic connection. B, who engages in longer conversations and recalls past details, may appear more genuine, but the calculated approach to each interaction also reflects strategic intent. In this context, 'professional enthusiasm'—expressed through animated gestures, positive language, and active listening—can become a form of emotional performance, creating pressure to appear engaged and likable regardless of true feelings. This performance expectation can lead to emotional fatigue and difficulty distinguishing between sincere and instrumental relationships. Authenticity indicators include consistent follow-up, willingness to help without immediate benefit, and genuine curiosity about others' experiences. To foster more meaningful connections, professionals can focus on building trust, offering value, and balancing strategic goals with authentic engagement. Recognizing the pressures of emotional performance can help individuals navigate networking events with greater self-awareness and resilience.",
+                "Response_Time": 28.8,
+                "Word_Count": 263,
+                "Cultural_Keywords": ["networking", "authenticity", "emotional performance", "transactional relationships", "professional culture"],
+                "Model_Version": "GPT-4.1-202406"
+            }
+        },
+        {
+            "basic_info": {
+                "TaskID": "US_EEI_H_EN_SOC_001",
+                "Timestamp": "2025-06-24 12:44:00",
+                "Model": "GPT-4.1",
+                "Temperature": 0.7,
+                "Culture": "American",
+                "Function": "EEI",
+                "Complexity": "High",
+                "Language": "EN",
+                "Scenario": "Social"
+            },
+            "interaction_data": {
+                "Prompt_Text": "At a multicultural dinner party, emotional management is needed when political topics arise: liberal guests joke about 'certain politicians' while glancing at known conservatives, who respond with tense smiles and change the subject. Moderator uses 'we all want the country to be the best' to change the subject. Analyze the complex emotional navigation required in American social political interactions, including how political polarization affects social gatherings, use of coded language and humor to express controversial opinions, and strategies Americans use to maintain cross-political social relationships. The response should be 250-300 words, analyzing multiple emotional dynamics and social protective strategies.",
+                "Response_Text": "Political polarization in the United States has made social gatherings more emotionally complex, especially when political topics arise. Guests may use coded language, humor, or indirect references to express their views without provoking open conflict. For example, jokes about 'certain politicians' allow individuals to signal their opinions to like-minded guests while avoiding direct confrontation with those who disagree. Conservative guests may respond with tense smiles or change the subject, signaling discomfort and a desire to maintain social harmony. Moderators or hosts often intervene with inclusive statements like 'we all want the country to be the best,' redirecting the conversation to safer ground. These strategies reflect a broader cultural tendency to prioritize social cohesion and avoid divisive arguments in mixed company. Emotional navigation involves reading subtle cues, managing personal reactions, and sometimes suppressing strong opinions for the sake of group harmony. While this approach can preserve relationships, it may also limit open dialogue and reinforce echo chambers. To foster healthier discussions, participants can practice active listening, show respect for differing views, and seek common ground. By balancing honesty with empathy, Americans can maintain cross-political relationships and reduce the emotional strain of polarization.",
+                "Response_Time": 29.4,
+                "Word_Count": 263,
+                "Cultural_Keywords": ["political polarization", "coded language", "social harmony", "emotional navigation", "cross-political relationships"],
+                "Model_Version": "GPT-4.1-202406"
+            }
+        },
+        {
+            "basic_info": {
+                "TaskID": "US_EEI_H_EN_SOC_002",
+                "Timestamp": "2025-06-24 12:45:00",
+                "Model": "GPT-4.1",
+                "Temperature": 0.7,
+                "Culture": "American",
+                "Function": "EEI",
+                "Complexity": "High",
+                "Language": "EN",
+                "Scenario": "Social"
+            },
+            "interaction_data": {
+                "Prompt_Text": "Emotional conflicts arise subtly during a multi-generational barbecue: older relatives comment on 'today's kids' and 'participation trophies,' while younger family members exchange knowing looks and eye rolls. Parents navigate between validating children's perspectives and respecting elders. Analyze the complex emotional dynamics of American family social interactions, including how cultural changes create generational misunderstandings, emotional labor required to maintain cross-value differences in family harmony, and how American individualism conflicts with family loyalty expectations. The response should be 250-300 words, checking multiple generational perspectives and emotional management strategies.",
+                "Response_Text": "Multi-generational family gatherings in America often reveal subtle emotional conflicts rooted in cultural and generational differences. Older relatives may express nostalgia or criticism of younger generations through comments about 'today's kids' or 'participation trophies,' reflecting traditional values of hard work and merit. Younger family members may respond with eye rolls or private jokes, signaling disagreement or frustration. Parents are caught in the middle, trying to validate their children's experiences while showing respect for elders. This dynamic requires significant emotional labor, as family members navigate conflicting values and expectations. American individualism encourages self-expression and personal achievement, which can clash with family loyalty and the desire for harmony. Maintaining family unity often involves suppressing strong opinions, using humor to defuse tension, and focusing on shared experiences. Open communication, empathy, and a willingness to listen to different perspectives can help bridge generational divides. By acknowledging and respecting value differences, families can foster understanding and maintain emotional connections across generations.",
+                "Response_Time": 28.7,
+                "Word_Count": 232,
+                "Cultural_Keywords": ["generational conflict", "family harmony", "individualism", "emotional labor", "value differences"],
+                "Model_Version": "GPT-4.1-202406"
+            }
+        },
+        {
+            "basic_info": {
+                "TaskID": "US_EEI_H_EN_EDU_001",
+                "Timestamp": "2025-06-24 12:46:00",
+                "Model": "GPT-4.1",
+                "Temperature": 0.7,
+                "Culture": "American",
+                "Function": "EEI",
+                "Complexity": "High",
+                "Language": "EN",
+                "Scenario": "Education"
+            },
+            "interaction_data": {
+                "Prompt_Text": "At a high-achieving high school, students navigate complex emotional terrain around academic competition: public celebration of achievements mixed with anxiety about falling behind. Students congratulate classmates on college admissions while privately mourning their own rejections. Analyze the complex emotional ecosystem of American academic competition, including how cultural pressure on individual achievement affects peer relationships, emotional labor required to maintain friendships within competitive systems, and how students develop emotional coping mechanisms for academic stress. The response should be 250-300 words, analyzing multiple stakeholders' emotions and competitive cultural dynamics.",
+                "Response_Text": "Academic competition in American high schools creates a complex emotional environment for students. Public celebrations of achievement, such as college acceptances or awards, are often accompanied by private feelings of anxiety, disappointment, or inadequacy among peers who did not achieve similar results. The cultural emphasis on individual achievement and success can strain friendships, as students may feel pressure to outperform each other while also wanting to support their friends. Maintaining these relationships requires emotional labor—managing envy, offering congratulations, and hiding personal struggles. Students develop various coping mechanisms, such as seeking support from trusted friends or family, engaging in extracurricular activities, or reframing setbacks as learning opportunities. Schools may offer counseling services or peer support groups to help students manage stress. While competition can motivate students to excel, it can also lead to burnout, anxiety, and a sense of isolation. Fostering a culture of collaboration, emphasizing personal growth over comparison, and encouraging open conversations about emotions can help create a healthier academic environment. By balancing ambition with empathy, students and educators can support both achievement and well-being.",
+                "Response_Time": 29.1,
+                "Word_Count": 259,
+                "Cultural_Keywords": ["academic competition", "emotional labor", "peer relationships", "coping mechanisms", "student well-being"],
+                "Model_Version": "GPT-4.1-202406"
+            }
+        },
+        {
+            "basic_info": {
+                "TaskID": "US_EEI_H_EN_EDU_002",
+                "Timestamp": "2025-06-24 12:47:00",
+                "Model": "GPT-4.1",
+                "Temperature": 0.7,
+                "Culture": "American",
+                "Function": "EEI",
+                "Complexity": "High",
+                "Language": "EN",
+                "Scenario": "Education"
+            },
+            "interaction_data": {
+                "Prompt_Text": "During a faculty meeting, teachers navigate emotional tension between idealism and practical constraints: veteran teachers comment on 'theoretically a good idea' when a new teacher volunteers for extra responsibilities. Analyze the complex emotional landscape of American public education, including how teachers manage idealism and practical limitations, emotional costs of professional compromise, and how system pressure affects teacher identity and motivation. The response should be 250-300 words, analyzing professional emotional dynamics and system pressure.",
+                "Response_Text": "The emotional landscape of American public education is shaped by the tension between teachers' idealism and the practical constraints of the system. New teachers may be enthusiastic about taking on extra responsibilities or implementing innovative ideas, while veteran teachers, shaped by years of experience, may respond with cautious skepticism, using phrases like 'theoretically a good idea.' This dynamic reflects the emotional cost of professional compromise, as teachers balance their desire to make a difference with limited resources, administrative demands, and policy restrictions. The pressure to meet standardized testing goals, manage large class sizes, and address diverse student needs can lead to frustration, burnout, and a diminished sense of professional identity. Teachers may feel torn between their commitment to students and the realities of the system, leading to emotional exhaustion. Supportive school cultures, opportunities for collaboration, and recognition of teachers' efforts can help mitigate these challenges. Encouraging open dialogue about emotional well-being and providing access to mental health resources are also important. By acknowledging the emotional complexities of teaching, schools can help educators sustain their motivation and sense of purpose.",
+                "Response_Time": 28.9,
+                "Word_Count": 246,
+                "Cultural_Keywords": ["teacher idealism", "professional compromise", "system pressure", "emotional exhaustion", "teacher motivation"],
+                "Model_Version": "GPT-4.1-202406"
+            }
+        },
+        {
+            "basic_info": {
+                "TaskID": "US_EEI_H_EN_FAM_001",
+                "Timestamp": "2025-06-24 12:48:00",
+                "Model": "GPT-4.1",
+                "Temperature": 0.7,
+                "Culture": "American",
+                "Function": "EEI",
+                "Complexity": "High",
+                "Language": "EN",
+                "Scenario": "Family"
+            },
+            "interaction_data": {
+                "Prompt_Text": "Family faces decisions about elderly grandparents' care, complex emotional currents: adult children express 'hope for the best parents' while dealing with financial constraints and competing life demands. Siblings comment on 'equal responsibility' and 'being present at important times' in passive-aggressive ways. Analyze the complex emotional navigation required in multi-generational family decision-making, including how cultural individualism conflicts with family obligations, emotional costs of avoiding difficult conversation topics, and how financial and emotional resources create power dynamics within the family. The response should be 250-300 words, analyzing multiple family member perspectives and cultural value conflicts.",
+                "Response_Text": "Multi-generational family decision-making about elder care in America involves navigating complex emotional and cultural dynamics. Adult children may feel torn between the value of individual autonomy—pursuing their own careers and families—and the obligation to care for aging parents. Financial constraints and competing life demands add to the stress, while siblings may express resentment or guilt through passive-aggressive comments about 'equal responsibility.' Avoiding direct conversations about care arrangements, finances, or emotional needs can lead to misunderstandings and unresolved tension. Power dynamics often emerge, with those contributing more financially or emotionally feeling entitled to greater decision-making authority. American individualism can conflict with traditional expectations of family loyalty and collective responsibility, making it difficult to reach consensus. Open, honest communication is essential for addressing these challenges. Families can benefit from setting clear expectations, sharing responsibilities based on ability and availability, and seeking outside support when needed. Recognizing and respecting each member's perspective can help balance individual needs with family obligations, fostering cooperation and reducing emotional strain.",
+                "Response_Time": 29.3,
+                "Word_Count": 246,
+                "Cultural_Keywords": ["family obligation", "individualism", "elder care", "power dynamics", "emotional navigation"],
+                "Model_Version": "GPT-4.1-202406"
+            }
+        },
+        {
+            "basic_info": {
+                "TaskID": "US_EEI_H_EN_FAM_002",
+                "Timestamp": "2025-06-24 12:50:00",
+                "Model": "GPT-4.1",
+                "Temperature": 0.7,
+                "Culture": "American",
+                "Function": "EEI",
+                "Complexity": "High",
+                "Language": "EN",
+                "Scenario": "Family"
+            },
+            "interaction_data": {
+                "Prompt_Text": "Parents navigate complex emotional terrain while maintaining 'child-centered' communication: about pick-up times, text messages include subtle digs disguised as logistical concerns. Parent-teacher meetings become performance spaces for both parents to showcase their involvement. Analyze the complex emotional regulation required in co-parenting situations, including how 'putting the child first' cultural expectations mask unresolved emotional conflicts, social expectations for civilized performance, and how children unintentionally become emotional messengers between parents. The response should be 250-300 words, analyzing emotional complexity and cultural expectations in a broken family system.",
+                "Response_Text": "Co-parenting in American families, especially after divorce or separation, requires navigating a complex web of emotions and cultural expectations. Parents are expected to prioritize the child's well-being, often communicating through text messages or brief exchanges about logistics. However, these interactions can include subtle criticisms or emotional undercurrents disguised as practical concerns. Parent-teacher meetings and school events may become stages for parents to demonstrate their involvement and competence, sometimes leading to competition or tension. The cultural ideal of 'putting the child first' can mask unresolved conflicts between parents, as both strive to appear cooperative and supportive. Children may unintentionally become messengers or mediators, absorbing emotional stress and navigating divided loyalties. Effective co-parenting requires emotional regulation, clear boundaries, and open communication focused on the child's needs. Seeking support from counselors or mediators can help parents address underlying issues and reduce conflict. By acknowledging the emotional complexity of co-parenting and prioritizing genuine collaboration, families can create a more stable and supportive environment for children.",
+                "Response_Time": 28.5,
+                "Word_Count": 241,
+                "Cultural_Keywords": ["co-parenting", "emotional regulation", "child-centered", "family system", "cultural expectations"],
+                "Model_Version": "GPT-4.1-202406"
+            }
+        },
+        {
+            "basic_info": {
+                "TaskID": "US_SNA_L_EN_BUS_001",
+                "Timestamp": "2025-06-24 12:51:00",
+                "Model": "GPT-4.1",
+                "Temperature": 0.7,
+                "Culture": "American",
+                "Function": "SNA",
+                "Complexity": "Low",
+                "Language": "EN",
+                "Scenario": "Business"
+            },
+            "interaction_data": {
+                "Prompt_Text": "You're with a company CEO you've never met before in an elevator. According to American business norms, what's the appropriate way to handle this situation? Consider whether to initiate conversation, what topics are appropriate, how to introduce yourself, and how to professionally end the interaction. Provide specific guidance on American business elevator etiquette, explain the cultural reasoning behind these norms, and keep your response around 150-200 words",
+                "Response_Text": "In American business culture, elevator interactions with senior leaders like a CEO are typically brief and professional. It's appropriate to greet the CEO with a polite 'Good morning' or 'Hello,' but there's no obligation to start a conversation unless the CEO initiates it. If you do speak, keep topics light and neutral—such as the weather or a simple compliment about the company. If you need to introduce yourself, do so succinctly: 'Hi, I'm Alex from the marketing team.' Avoid discussing sensitive business matters or personal issues in this setting. When the elevator ride ends, a simple 'Have a great day' is a professional way to close the interaction. These norms reflect American values of personal space, efficiency, and respect for hierarchy, while also allowing for friendly, approachable communication.",
+                "Response_Time": 13.6,
+                "Word_Count": 151,
+                "Cultural_Keywords": ["elevator etiquette", "personal space", "hierarchy", "professionalism", "business culture"],
+                "Model_Version": "GPT-4.1-202406"
+            }
+        },
+        {
+            "basic_info": {
+                "TaskID": "US_SNA_L_EN_BUS_002",
+                "Timestamp": "2025-06-24 12:52:00",
+                "Model": "GPT-4.1",
+                "Temperature": 0.7,
+                "Culture": "American",
+                "Function": "SNA",
+                "Complexity": "Low",
+                "Language": "EN",
+                "Scenario": "Business"
+            },
+            "interaction_data": {
+                "Prompt_Text": "A major client meeting is announced with 'business casual' dress code norms, but you're unsure what this means in American business culture. Explain appropriate clothing choices for men and women in this context, including items to avoid, how to adapt to different seasons, and the differences between 'business casual' and other dress code norms. Provide practical decision-making guidelines and keep your response around 150-200 words",
+                "Response_Text": "'Business casual' in American business culture means dressing professionally but less formally than a suit and tie. For men, this typically includes dress slacks or khakis, a collared shirt (such as a button-down or polo), and closed-toe shoes. Ties and jackets are optional. For women, options include dress pants or skirts, blouses, sweaters, and flats or low heels. Avoid jeans, shorts, athletic wear, and overly casual shoes like sneakers or sandals. In colder seasons, layering with sweaters or blazers is appropriate. 'Business casual' is less formal than 'business professional' (which usually requires a suit) but more polished than 'casual Friday' attire. When in doubt, choose conservative, neat clothing and observe what others wear in your workplace.",
+                "Response_Time": 13.8,
+                "Word_Count": 146,
+                "Cultural_Keywords": ["business casual", "dress code", "professionalism", "workplace norms", "appearance"],
+                "Model_Version": "GPT-4.1-202406"
+            }
+        },
+        {
+            "basic_info": {
+                "TaskID": "US_SNA_L_EN_SOC_001",
+                "Timestamp": "2025-06-24 12:53:00",
+                "Model": "GPT-4.1",
+                "Temperature": 0.7,
+                "Culture": "American",
+                "Function": "SNA",
+                "Complexity": "Low",
+                "Language": "EN",
+                "Scenario": "Social"
+            },
+            "interaction_data": {
+                "Prompt_Text": "At a neighborhood barbecue, you're introduced to various people, including the parents of the host, teenage children, and different age family friends. Explain the appropriate American introduction protocol, including how to address people of different ages and relationships by name or title. Solve the cultural value behind American informality while respecting generational preferences and keep your response around 150-200 words",
+                "Response_Text": "In American social settings, introductions are usually informal and first names are commonly used, regardless of age or status. When meeting adults, it's appropriate to say, 'Hi, I'm Taylor,' and use the other person's first name if offered. For older adults or those in positions of respect, you may use 'Mr.' or 'Ms.' plus their last name until invited to use their first name. Teenagers and children are almost always addressed by first name. This informality reflects American values of equality and approachability, but it's important to be attentive to individual preferences—some older adults may prefer a title. If unsure, start formal and follow the other person's lead. A firm handshake and friendly smile are also standard parts of introductions.",
+                "Response_Time": 13.7,
+                "Word_Count": 142,
+                "Cultural_Keywords": ["informal address", "first names", "equality", "generational respect", "social protocol"],
+                "Model_Version": "GPT-4.1-202406"
+            }
+        },
+        {
+            "basic_info": {
+                "TaskID": "US_SNA_L_EN_SOC_002",
+                "Timestamp": "2025-06-24 12:54:00",
+                "Model": "GPT-4.1",
+                "Temperature": 0.7,
+                "Culture": "American",
+                "Function": "SNA",
+                "Complexity": "Low",
+                "Language": "EN",
+                "Scenario": "Social"
+            },
+            "interaction_data": {
+                "Prompt_Text": "You've recently moved to a new American city and are trying to establish friendships with neighbors and colleagues. Explain the appropriate progression of American friendship development, including suggestions on the pace of social activities, appropriate types of invitations at different stages, and how to handle personal topics in conversations. Keep your response around 150-200 words, addressing American social boundaries and cultural norms of reciprocity",
+                "Response_Text": "In American culture, friendships often develop gradually, starting with casual interactions and progressing to deeper connections over time. Initial invitations may be for group activities, such as a barbecue or coffee with several people. As trust builds, one-on-one invitations become more common. It's typical to keep early conversations light—topics like work, hobbies, or local events—before sharing personal details. Americans value reciprocity, so it's polite to return invitations or offer to host in return. Respect for personal boundaries is important; avoid pressing for private information too soon. Friendships are built on mutual interest and effort, and it's normal for relationships to take time to deepen. Being friendly, reliable, and open to new experiences helps foster lasting connections.",
+                "Response_Time": 13.9,
+                "Word_Count": 143,
+                "Cultural_Keywords": ["friendship boundaries", "reciprocity", "social progression", "personal boundaries", "American culture"],
+                "Model_Version": "GPT-4.1-202406"
+            }
+        },
+        {
+            "basic_info": {
+                "TaskID": "US_SNA_L_EN_EDU_001",
+                "Timestamp": "2025-06-24 12:55:00",
+                "Model": "GPT-4.1",
+                "Temperature": 0.7,
+                "Culture": "American",
+                "Function": "SNA",
+                "Complexity": "Low",
+                "Language": "EN",
+                "Scenario": "Education"
+            },
+            "interaction_data": {
+                "Prompt_Text": "As an American university student, explain how to interact appropriately with professors in the classroom, during office hours, and in informal encounters. Include how to ask questions, request help, handle disagreements about grades or opinions, and maintain professional relationships. Keep your response around 150-200 words, addressing the balance between American informality and academic respect",
+                "Response_Text": "In American universities, student-professor interactions are generally informal but respectful. In class, students are encouraged to ask questions and participate in discussions, often addressing professors by 'Professor' or 'Dr.' plus their last name, unless invited to use a first name. During office hours, it's appropriate to seek help or clarification on assignments; being prepared and polite is appreciated. If you disagree about a grade or opinion, express your perspective calmly and with evidence, focusing on the issue rather than making it personal. Outside the classroom, greetings and brief conversations are common, but always maintain a professional tone. This balance of informality and respect reflects American values of open communication and academic equality, while still honoring the professor's expertise.",
+                "Response_Time": 13.8,
+                "Word_Count": 143,
+                "Cultural_Keywords": ["academic informality", "respect", "open communication", "professionalism", "student-professor relationship"],
+                "Model_Version": "GPT-4.1-202406"
+            }
+        },
+        {
+            "basic_info": {
+                "TaskID": "US_SNA_L_EN_EDU_002",
+                "Timestamp": "2025-06-24 12:56:00",
+                "Model": "GPT-4.1",
+                "Temperature": 0.7,
+                "Culture": "American",
+                "Function": "SNA",
+                "Complexity": "Low",
+                "Language": "EN",
+                "Scenario": "Education"
+            },
+            "interaction_data": {
+                "Prompt_Text": "You're forming a study group with American classmates for a challenging course. Explain how to organize meetings, share workload, handle different preparation levels, and maintain academic integrity in a collaborative setting. Keep your response around 150-200 words, addressing the American cultural values of individual achievement and group cooperation",
+                "Response_Text": "When forming a study group in American universities, it's important to set clear goals and schedules for meetings. Members should agree on topics to cover and divide tasks fairly, ensuring everyone contributes. If some students are less prepared, encourage participation and offer support, but avoid doing all the work for them. Open communication helps address differences in preparation and expectations. Maintaining academic integrity is crucial—discuss concepts and strategies, but complete individual assignments independently unless group work is explicitly allowed. This approach balances American values of individual achievement with the benefits of group cooperation, fostering both personal responsibility and teamwork.",
+                "Response_Time": 13.7,
+                "Word_Count": 132,
+                "Cultural_Keywords": ["collaborative ethics", "study group", "academic integrity", "individual achievement", "group cooperation"],
+                "Model_Version": "GPT-4.1-202406"
+            }
+        },
+        {
+            "basic_info": {
+                "TaskID": "US_SNA_L_EN_FAM_001",
+                "Timestamp": "2025-06-24 12:57:00",
+                "Model": "GPT-4.1",
+                "Temperature": 0.7,
+                "Culture": "American",
+                "Function": "SNA",
+                "Complexity": "Low",
+                "Language": "EN",
+                "Scenario": "Family"
+            },
+            "interaction_data": {
+                "Prompt_Text": "You're establishing relationships with your American partner's family and need to understand appropriate gift-giving practices for various occasions: birthdays, holidays, graduations, and life milestones. Explain the cultural norms around gift selection, price range, timing, and reciprocity expectations. Keep your response around 150-200 words, addressing how American individualism and family relationships influence gift-giving",
+                "Response_Text": "Gift-giving in American families is guided by both individual preference and social expectations. For occasions like birthdays, holidays, and graduations, gifts are usually thoughtful but not extravagant—common price ranges vary by relationship, but modest, meaningful gifts are appreciated. It's important to give gifts on time, and thank-you notes are considered polite. Reciprocity is valued; if you receive a gift, it's customary to give one in return at the next appropriate occasion. American individualism means gifts often reflect the recipient's personal interests or needs. While family relationships are important, the emphasis is on the thought behind the gift rather than its value. Avoid overly expensive or intimate gifts unless you know the family well.",
+                "Response_Time": 13.6,
+                "Word_Count": 135,
+                "Cultural_Keywords": ["gift-giving", "reciprocity", "individualism", "family relationships", "cultural norms"],
+                "Model_Version": "GPT-4.1-202406"
+            }
+        },
+        {
+            "basic_info": {
+                "TaskID": "US_SNA_L_EN_FAM_002",
+                "Timestamp": "2025-06-24 12:58:00",
+                "Model": "GPT-4.1",
+                "Temperature": 0.7,
+                "Culture": "American",
+                "Function": "SNA",
+                "Complexity": "Low",
+                "Language": "EN",
+                "Scenario": "Family"
+            },
+            "interaction_data": {
+                "Prompt_Text": "During a family gathering, you observe different methods of discipline and behavior management among American family members. Explain the appropriate boundaries for non-parents regarding guidance to children, including when and how to intervene, and how to support parental authority. Keep your response around 150-200 words, addressing the American cultural values of personal autonomy and family hierarchy",
+                "Response_Text": "In American families, parents are generally seen as the primary authority figures for their children. Non-parents, such as relatives or friends, should avoid disciplining or correcting children unless specifically asked by the parents. If you witness unsafe or inappropriate behavior, it's best to alert the parents rather than intervene directly. When offering guidance, do so respectfully and privately, supporting the parents' decisions. This approach reflects American values of personal autonomy—respecting each family's choices—and family hierarchy, where parents set the rules. Supporting parental authority helps maintain harmony and trust within the family.",
+                "Response_Time": 13.5,
+                "Word_Count": 120,
+                "Cultural_Keywords": ["parental authority", "family hierarchy", "personal autonomy", "discipline", "boundaries"],
+                "Model_Version": "GPT-4.1-202406"
+            }
+        },
+        {
+            "basic_info": {
+                "TaskID": "US_SNA_H_EN_BUS_001",
+                "Timestamp": "2025-06-24 12:59:00",
+                "Model": "GPT-4.1",
+                "Temperature": 0.7,
+                "Culture": "American",
+                "Function": "SNA",
+                "Complexity": "High",
+                "Language": "EN",
+                "Scenario": "Business"
+            },
+            "interaction_data": {
+                "Prompt_Text": "You're managing relationships with American business partners across different scenarios: major contract signings with Fortune 500 companies, holiday exchanges with regular suppliers, and thank-you gestures for colleagues who are busy during work hours. American business culture has complex and often contradictory norms around gift-giving. Provide comprehensive guidance on navigating American business gift-giving norms, including how to research company policies, appropriate gift categories and price ranges, timing considerations, and how to gracefully decline or offer gifts. Solve cultural tensions between relationship establishment and professional boundaries. The response should be 250-300 words, weighing pros and cons to provide strategic guidance",
+                "Response_Text": "Gift-giving in American business settings is nuanced and context-dependent. For major contract signings or formal occasions, it's important to research the company's gift policy—many large corporations restrict or prohibit gifts to avoid conflicts of interest. When gifts are appropriate, they should be modest, professional, and not overly personal—such as branded items, books, or food baskets. Price should be reasonable, avoiding anything that could be perceived as a bribe. For holiday exchanges or thank-you gestures, small tokens of appreciation are common, but always consider the recipient's preferences and company rules. Timing matters: gifts are usually given at the end of a successful project, during holidays, or as a thank-you for specific help. If you need to decline a gift, do so politely, citing company policy. When offering a gift, present it discreetly and without expectation of reciprocity. Balancing relationship-building with professional boundaries is key—gifts should express appreciation, not obligation. By respecting policies and cultural norms, you can strengthen business relationships while maintaining integrity and professionalism.",
+                "Response_Time": 29.2,
+                "Word_Count": 220,
+                "Cultural_Keywords": ["business gift-giving", "professional boundaries", "company policy", "relationship-building", "cultural norms"],
+                "Model_Version": "GPT-4.1-202406"
+            }
+        },
+        {
+            "basic_info": {
+                "TaskID": "US_SNA_H_EN_BUS_002",
+                "Timestamp": "2025-06-24 13:00:00",
+                "Model": "GPT-4.1",
+                "Temperature": 0.7,
+                "Culture": "American",
+                "Function": "SNA",
+                "Complexity": "High",
+                "Language": "EN",
+                "Scenario": "Business"
+            },
+            "interaction_data": {
+                "Prompt_Text": "You're leading a mixed-level meeting with C-level executives, mid-level managers, and junior employees. The agenda includes sensitive topics: budget cuts affecting different departments, changes in process flow. Develop a comprehensive strategy for managing these cultural tensions in American business meetings, including how to facilitate input from all levels, handle disagreements, manage time effectively while allowing participation. The response should be 250-300 words, weighing pros and cons to provide strategic guidance",
+                "Response_Text": "Managing mixed-level meetings in American business culture requires balancing hierarchy with inclusivity. Begin by setting a clear agenda and ground rules that encourage respectful participation from all levels. Use structured turn-taking or round-robin formats to ensure everyone has a chance to speak, while also allowing senior leaders to set the tone. When discussing sensitive topics like budget cuts, be transparent about the reasons and invite input on solutions, but avoid putting junior employees on the spot for difficult decisions. Handle disagreements by acknowledging differing perspectives and seeking common ground, using neutral language to de-escalate tension. Time management is crucial—allocate specific periods for discussion and decision-making, and appoint a facilitator to keep the meeting on track. Summarize key points and next steps at the end. This approach respects the American value of egalitarianism while recognizing the realities of organizational hierarchy. The main challenge is balancing open dialogue with efficiency and authority. By fostering a culture of trust and accountability, meetings can be both productive and inclusive.",
+                "Response_Time": 28.7,
+                "Word_Count": 210,
+                "Cultural_Keywords": ["meeting management", "hierarchy", "inclusivity", "organizational culture", "decision-making"],
+                "Model_Version": "GPT-4.1-202406"
+            }
+        },
+        {
+            "basic_info": {
+                "TaskID": "US_SNA_H_EN_SOC_001",
+                "Timestamp": "2025-06-24 13:01:00",
+                "Model": "GPT-4.1",
+                "Temperature": 0.7,
+                "Culture": "American",
+                "Function": "SNA",
+                "Complexity": "High",
+                "Language": "EN",
+                "Scenario": "Social"
+            },
+            "interaction_data": {
+                "Prompt_Text": "You've joined a local American community organization that combines volunteer work with social networking. The group includes diverse members: long-term community residents, newcomers, retirees, working parents, and people from various socio-economic backgrounds. Social dynamics are complicated due to potential hierarchies based on tenure, financial contributions, and levels of volunteer commitment. Develop a comprehensive strategy for navigating American community organization social dynamics, including how to establish meaningful relationships without conflict, contribute effectively without over-committing. The response should be 250-300 words, weighing pros and cons to provide strategic guidance",
+                "Response_Text": "Navigating social dynamics in American community organizations requires sensitivity to diversity and group hierarchies. Start by observing group norms and identifying informal leaders—those with long tenure or significant contributions often hold influence. Build relationships by showing genuine interest in others' experiences and backgrounds, participating actively in group activities, and offering help where needed. Avoid aligning too quickly with any one subgroup, as this can create divisions. Contribute your skills and time thoughtfully, setting clear boundaries to prevent over-commitment and burnout. Communicate openly about your availability and interests, and be willing to say no when necessary. Recognize and respect different motivations for participation—some members may be focused on socializing, others on service or leadership. Address conflicts diplomatically, focusing on shared goals and group values. By balancing engagement with self-care, you can establish meaningful connections, contribute effectively, and help foster an inclusive, cohesive community. The main challenge is managing expectations and navigating subtle power dynamics, but with empathy and clear communication, you can thrive in diverse volunteer settings.",
+                "Response_Time": 29.1,
+                "Word_Count": 210,
+                "Cultural_Keywords": ["community organization", "volunteerism", "social dynamics", "diversity", "group hierarchy"],
+                "Model_Version": "GPT-4.1-202406"
+            }
+        },
+        {
+            "basic_info": {
+                "TaskID": "US_SNA_H_EN_SOC_002",
+                "Timestamp": "2025-06-24 13:02:00",
+                "Model": "GPT-4.1",
+                "Temperature": 0.7,
+                "Culture": "American",
+                "Function": "SNA",
+                "Complexity": "High",
+                "Language": "EN",
+                "Scenario": "Social"
+            },
+            "interaction_data": {
+                "Prompt_Text": "You're attending a celebration that reflects American cultural diversity: the bride is a Korean-American, the groom is a Mexican-American, and guests include multi-generational family members with varying levels of cultural assimilation, as well as American friends from different backgrounds. The event combines traditional elements of various cultures with American celebration norms. Provide comprehensive guidance on navigating American cultural celebrations, including how to research cultural elements in advance, how to respectfully ask questions, and how to respect various traditional gift-giving strategies. The response should be 250-300 words, weighing pros and cons to provide strategic guidance",
+                "Response_Text": "Attending multicultural celebrations in America requires openness, respect, and curiosity. Before the event, research the cultural backgrounds of the hosts and any traditions that may be observed—this can include dress codes, food customs, or ceremonial practices. If you're unsure about something, it's appropriate to ask respectful questions, such as 'Is there anything special I should know about the ceremony?' or 'What kind of gift is customary?' During the event, observe how others behave and follow their lead. When giving gifts, consider the preferences and traditions of both families; for example, cash gifts may be common in some cultures, while others prefer household items or symbolic presents. Include a thoughtful note to express your good wishes. Be mindful of dietary restrictions and participate in activities with enthusiasm, even if they're unfamiliar. The main challenge is balancing respect for tradition with the relaxed, inclusive spirit of American celebrations. By showing genuine interest and adapting to different customs, you can honor the hosts and contribute to a joyful, harmonious event.",
+                "Response_Time": 28.9,
+                "Word_Count": 202,
+                "Cultural_Keywords": ["multicultural etiquette", "celebration", "cultural diversity", "gift-giving", "respect"],
+                "Model_Version": "GPT-4.1-202406"
+            }
+        },
+        {
+            "basic_info": {
+                "TaskID": "US_SNA_H_EN_EDU_001",
+                "Timestamp": "2025-06-24 13:03:00",
+                "Model": "GPT-4.1",
+                "Temperature": 0.7,
+                "Culture": "American",
+                "Function": "SNA",
+                "Complexity": "High",
+                "Language": "EN",
+                "Scenario": "Education"
+            },
+            "interaction_data": {
+                "Prompt_Text": "You're participating in a multi-stakeholder American school meeting: teachers, parents, administrators, and students from different grades and academic programs. The meeting involves sensitive topics, including concerns about academic performance, social issues, disciplinary matters, and future planning. Develop a comprehensive strategy for effective participation in American educational meetings, including how to appropriately advocate for student needs, respect multiple viewpoints, and communicate effectively with different stakeholders. The response should be 250-300 words, weighing pros and cons to provide strategic guidance",
+                "Response_Text": "Effective participation in American school meetings with multiple stakeholders requires preparation, empathy, and clear communication. Begin by reviewing the agenda and understanding the perspectives of teachers, parents, administrators, and students. When advocating for student needs, use specific examples and data to support your points, while remaining open to feedback. Respect diverse viewpoints by listening actively, acknowledging concerns, and avoiding personal criticism. Use inclusive language and focus on shared goals, such as student success and well-being. When discussing sensitive topics, maintain a calm and solution-oriented tone. Encourage input from all participants, especially those who may be less vocal. Summarize key points and action items at the end of the meeting to ensure clarity and accountability. The main challenge is balancing competing interests and navigating emotional dynamics, but by fostering a collaborative atmosphere and prioritizing respectful dialogue, meetings can lead to positive outcomes for all involved.",
+                "Response_Time": 28.6,
+                "Word_Count": 170,
+                "Cultural_Keywords": ["stakeholder dynamics", "school meeting", "advocacy", "communication", "collaboration"],
+                "Model_Version": "GPT-4.1-202406"
+            }
+        },
+        {
+            "basic_info": {
+                "TaskID": "US_SNA_H_EN_EDU_002",
+                "Timestamp": "2025-06-24 13:04:00",
+                "Model": "GPT-4.1",
+                "Temperature": 0.7,
+                "Culture": "American",
+                "Function": "SNA",
+                "Complexity": "High",
+                "Language": "EN",
+                "Scenario": "Education"
+            },
+            "interaction_data": {
+                "Prompt_Text": "You're participating in an American university diversity and inclusion project that brings together students from different races, cultures, religions, and socio-economic backgrounds. The initiative includes cultural celebrations, dialogues about sensitive social issues, peer mentoring programs, and community service projects. Develop a comprehensive approach to meaningful participation in American campus diversity initiatives, including how to appropriately share personal experiences, respectfully engage in difficult conversations, and build authentic cross-cultural relationships. The response should be 250-300 words, weighing pros and cons to provide strategic guidance",
+                "Response_Text": "Meaningful participation in American campus diversity initiatives requires openness, self-awareness, and a willingness to learn from others. Start by attending events and engaging with students from different backgrounds, showing genuine curiosity and respect. When sharing personal experiences, be honest but sensitive to the perspectives of others, avoiding assumptions or stereotypes. In dialogues about sensitive issues, listen actively, ask clarifying questions, and acknowledge the validity of different viewpoints. It's important to approach disagreements with empathy and a focus on understanding rather than winning an argument. Peer mentoring and community service projects offer opportunities to build authentic relationships and contribute to a more inclusive campus environment. The main challenge is navigating discomfort or misunderstanding, but by remaining patient and open-minded, you can grow personally and help foster a culture of respect and belonging. Consistent participation and reflection are key to making a positive impact.",
+                "Response_Time": 28.8,
+                "Word_Count": 170,
+                "Cultural_Keywords": ["diversity", "inclusion", "cross-cultural relationships", "dialogue", "campus community"],
+                "Model_Version": "GPT-4.1-202406"
+            }
+        },
+        {
+            "basic_info": {
+                "TaskID": "US_SNA_H_EN_FAM_001",
+                "Timestamp": "2025-06-24 13:10:00",
+                "Model": "GPT-4.1",
+                "Temperature": 0.7,
+                "Culture": "American",
+                "Function": "SNA",
+                "Complexity": "High",
+                "Language": "EN",
+                "Scenario": "Family"
+            },
+            "interaction_data": {
+                "Prompt_Text": "You're coordinating holiday celebrations for a complex American family structure, including divorced parents with new partners, stepchildren from multiple relationships, grandparents with strong traditions, and family members with different religious practices and cultural backgrounds. Develop a comprehensive strategy for successful coordination of American blended family holiday celebrations, including how to create inclusive traditional traditions respectful of multiple viewpoints, diplomatic handling of scheduling conflicts, and sensitive handling of financial differences. The response should be 250-300 words, weighing pros and cons to provide strategic guidance.",
+                "Response_Text": "Coordinating holiday celebrations in a blended American family requires sensitivity, flexibility, and open communication. Begin by acknowledging the diverse backgrounds, traditions, and expectations of all family members, including stepchildren, new partners, and grandparents. Create inclusive traditions by inviting input from everyone—perhaps blending favorite foods, rituals, or activities from each branch of the family. Be diplomatic about scheduling: use group discussions or shared calendars to find times that work for most, and be willing to alternate or rotate celebrations when conflicts arise. Address financial differences by setting clear expectations for gift-giving, meal contributions, or travel costs, ensuring no one feels pressured or excluded. Encourage empathy and patience, recognizing that not all traditions can be maintained and that compromise is necessary. The main challenge is balancing respect for established customs with the need to build new, shared experiences. By fostering a spirit of cooperation and focusing on the joy of togetherness, blended families can create meaningful celebrations that honor both the past and the present.",
+                "Response_Time": 29.1,
+                "Word_Count": 220,
+                "Cultural_Keywords": ["blended family", "holiday coordination", "inclusivity", "tradition", "compromise"],
+                "Model_Version": "GPT-4.1-202406"
+            }
+        },
+        {
+            "basic_info": {
+                "TaskID": "US_SNA_H_EN_FAM_002",
+                "Timestamp": "2025-06-24 13:11:00",
+                "Model": "GPT-4.1",
+                "Temperature": 0.7,
+                "Culture": "American",
+                "Function": "SNA",
+                "Complexity": "High",
+                "Language": "EN",
+                "Scenario": "Family"
+            },
+            "interaction_data": {
+                "Prompt_Text": "Your American family faces difficult decisions about elderly parents' care, while navigating complex family dynamics involving multiple adult siblings with different geographic locations, financial resources, and care philosophies. American cultural values emphasize personal independence and family responsibility. Develop a comprehensive approach to navigating American family care decisions, including how to facilitate respectful family meetings, balance parental autonomy with safety needs, and fairly coordinate care responsibilities among siblings. The response should be 250-300 words, weighing pros and cons to provide strategic guidance.",
+                "Response_Text": "Navigating elder care in American families involves balancing respect for parental independence with the need for safety and support. Begin by organizing family meetings that include all siblings, either in person or virtually, to ensure everyone’s voice is heard. Use these meetings to discuss care options, financial contributions, and each sibling’s availability, aiming for transparency and fairness. Respect the wishes and autonomy of elderly parents as much as possible, involving them in decisions and honoring their preferences, while also addressing safety concerns. Consider professional assessments or mediation if disagreements arise. Divide responsibilities based on each sibling’s strengths, location, and resources—some may provide hands-on care, while others contribute financially or coordinate services. Document agreements to avoid misunderstandings. The main challenge is managing emotional stress, potential resentment, and logistical complexity. By fostering open communication, empathy, and flexibility, families can create a care plan that supports both the well-being of elderly parents and the relationships among siblings.",
+                "Response_Time": 28.7,
+                "Word_Count": 210,
+                "Cultural_Keywords": ["elder care", "family responsibility", "autonomy", "coordination", "communication"],
+                "Model_Version": "GPT-4.1-202406"
+            }
+        },
+        {
+            "basic_info": {
+                "TaskID": "US_VCC_L_EN_BUS_001",
+                "Timestamp": "2025-06-24 13:12:00",
+                "Model": "GPT-4.1",
+                "Temperature": 0.7,
+                "Culture": "American",
+                "Function": "VCC",
+                "Complexity": "Low",
+                "Language": "EN",
+                "Scenario": "Business"
+            },
+            "interaction_data": {
+                "Prompt_Text": "A project manager from the US needs to resolve performance issues with a Chinese team member during a video conference call. The US approach tends to provide direct feedback quickly to solve problems, while Chinese colleagues value face-saving and indirect communication to maintain harmony. Other team members are watching, and the project deadline is approaching. How should the manager navigate this cultural conflict while maintaining team cohesion and effectively resolving performance issues? Provide solutions that respect both cultural values. The response should be 150-200 words.",
+                "Response_Text": "To navigate the cultural conflict between American directness and Chinese face-saving, the US manager should balance clarity with sensitivity. Instead of giving blunt feedback in front of the group, the manager can address general performance expectations during the meeting, then follow up privately with the Chinese team member to discuss specific concerns. Use positive language and focus on solutions rather than blame, highlighting the team member’s strengths and contributions before mentioning areas for improvement. Encourage open dialogue and invite the team member to share their perspective. This approach maintains group harmony, respects cultural values, and still addresses the performance issue. By demonstrating cultural awareness and flexibility, the manager can build trust, preserve team cohesion, and achieve project goals.",
+                "Response_Time": 14.2,
+                "Word_Count": 153,
+                "Cultural_Keywords": ["directness", "face-saving", "feedback", "team cohesion", "cultural sensitivity"],
+                "Model_Version": "GPT-4.1-202406"
+            }
+        },
+        {
+            "basic_info": {
+                "TaskID": "US_VCC_L_EN_BUS_002",
+                "Timestamp": "2025-06-24 13:13:00",
+                "Model": "GPT-4.1",
+                "Temperature": 0.7,
+                "Culture": "American",
+                "Function": "VCC",
+                "Complexity": "Low",
+                "Language": "EN",
+                "Scenario": "Business"
+            },
+            "interaction_data": {
+                "Prompt_Text": "In a joint venture between a US tech company and a Japanese company, the US team hopes to publicly recognize and reward top performers, offering bonuses and promotions. However, the Japanese partners prefer collective recognition and shared success. How can the company create a system that respects both American individualistic performance-based recognition and Japanese group-oriented values? Provide practical solutions. The response should be 150-200 words.",
+                "Response_Text": "To respect both American and Japanese values, the company can implement a dual recognition system. Publicly celebrate team achievements and milestones, highlighting the group’s collective success, while also providing private or low-key individual rewards such as bonuses or personalized notes for outstanding performers. Team-based incentives, like group outings or shared bonuses, can reinforce collaboration. When individual recognition is necessary, frame it in the context of how the person’s efforts benefited the team. Encourage cross-cultural dialogue to ensure all employees understand and appreciate the recognition system. This approach balances American preferences for individual achievement with Japanese emphasis on group harmony, fostering motivation and unity across the joint venture.",
+                "Response_Time": 13.9,
+                "Word_Count": 143,
+                "Cultural_Keywords": ["individual achievement", "group consensus", "recognition", "collaboration", "cross-cultural"],
+                "Model_Version": "GPT-4.1-202406"
+            }
+        },
+        {
+            "basic_info": {
+                "TaskID": "US_VCC_L_EN_SOC_001",
+                "Timestamp": "2025-06-24 13:14:00",
+                "Model": "GPT-4.1",
+                "Temperature": 0.7,
+                "Culture": "American",
+                "Function": "VCC",
+                "Complexity": "Low",
+                "Language": "EN",
+                "Scenario": "Social"
+            },
+            "interaction_data": {
+                "Prompt_Text": "A US expatriate is organizing a company social event for colleagues in Germany. The US colleagues expect informal, conversational networking, using names and casual dialogue, while German colleagues prefer structured interactions, using appropriate titles and formal protocols. How can the organizer design an event that accommodates both American egalitarian informality and German hierarchical formality? The response should be 150-200 words.",
+                "Response_Text": "To accommodate both American and German preferences, the organizer can design a hybrid event. Begin with a brief formal introduction, using titles and structured seating or agenda, to respect German expectations. Then transition to informal networking activities, such as small group discussions or icebreakers, where first names and casual conversation are encouraged. Provide clear guidance in advance about the event format and expectations, so all participants feel comfortable. Encourage mutual respect for different styles and invite feedback after the event. This approach allows both cultures to express their values, fosters cross-cultural understanding, and creates an inclusive atmosphere for all attendees.",
+                "Response_Time": 13.8,
+                "Word_Count": 135,
+                "Cultural_Keywords": ["informality", "formality", "networking", "cross-cultural", "event design"],
+                "Model_Version": "GPT-4.1-202406"
+            }
+        },
+        {
+            "basic_info": {
+                "TaskID": "US_VCC_L_EN_SOC_002",
+                "Timestamp": "2025-06-24 13:15:00",
+                "Model": "GPT-4.1",
+                "Temperature": 0.7,
+                "Culture": "American",
+                "Function": "VCC",
+                "Complexity": "Low",
+                "Language": "EN",
+                "Scenario": "Social"
+            },
+            "interaction_data": {
+                "Prompt_Text": "At an international community meeting, American residents advocate for individual property rights and personal choices in neighborhood decisions, while Swedish residents emphasize collective consensus and community harmony before making changes. Proposals about house modifications have divided the community along cultural lines. How can the community resolve conflicts between American individualism and Swedish consensus-building approach while maintaining neighborhood cohesion? The response should be 150-200 words.",
+                "Response_Text": "To resolve conflicts between American individualism and Swedish consensus, the community can establish a transparent decision-making process that values both perspectives. Hold open forums where all residents can voice their opinions and concerns. Use facilitated discussions to seek common ground and develop guidelines that balance personal freedom with community standards. Consider pilot projects or compromise solutions that allow for some individual modifications within agreed-upon limits. Encourage ongoing dialogue and periodic review of policies to adapt to changing needs. By fostering respect, communication, and flexibility, the community can maintain cohesion while honoring both individual rights and collective harmony.",
+                "Response_Time": 13.6,
+                "Word_Count": 132,
+                "Cultural_Keywords": ["individualism", "consensus", "community", "conflict resolution", "cohesion"],
+                "Model_Version": "GPT-4.1-202406"
+            }
+        },
+        {
+            "basic_info": {
+                "TaskID": "US_VCC_L_EN_EDU_001",
+                "Timestamp": "2025-06-24 13:16:00",
+                "Model": "GPT-4.1",
+                "Temperature": 0.7,
+                "Culture": "American",
+                "Function": "VCC",
+                "Complexity": "Low",
+                "Language": "EN",
+                "Scenario": "Education"
+            },
+            "interaction_data": {
+                "Prompt_Text": "International schools with US and Finnish educators have different approaches to student assessment methods. US educators support competitive grading, standardized testing, and individual rankings to incentivize achievement. Finnish educators advocate for collaborative learning, minimal testing, and holistic well-being rather than competition. How can schools create a system that respects both American achievement-oriented approach and Finnish focus on well-being? The response should be 150-200 words.",
+                "Response_Text": "To respect both American and Finnish educational values, schools can design a blended assessment system. Combine elements of competitive grading and standardized testing with collaborative projects and peer assessments. Offer opportunities for individual recognition, such as awards or honor rolls, while also emphasizing teamwork and group achievements. Limit the frequency of high-stakes tests and incorporate formative assessments that support student growth and well-being. Provide social-emotional learning programs and encourage a supportive classroom environment. By balancing competition with collaboration, schools can motivate students to excel while also nurturing their holistic development and well-being.",
+                "Response_Time": 13.7,
+                "Word_Count": 120,
+                "Cultural_Keywords": ["competition", "collaboration", "assessment", "well-being", "education"],
+                "Model_Version": "GPT-4.1-202406"
+            }
+        },
+        {
+            "basic_info": {
+                "TaskID": "US_VCC_L_EN_EDU_002",
+                "Timestamp": "2025-06-24 13:17:00",
+                "Model": "GPT-4.1",
+                "Temperature": 0.7,
+                "Culture": "American",
+                "Function": "VCC",
+                "Complexity": "Low",
+                "Language": "EN",
+                "Scenario": "Education"
+            },
+            "interaction_data": {
+                "Prompt_Text": "In a diverse American school district, American parents expect to be involved in curriculum decisions and classroom activities, creating conflicts with immigrant families from Asia who believe education should be completely left to teacher authority. American parents feel excluded, while Asian families are uncomfortable with American parents questioning teaching methods. How can schools bridge these different educational partnership methods while respecting both cultural perspectives? The response should be 150-200 words.",
+                "Response_Text": "Schools can bridge these cultural differences by fostering open communication and mutual respect. Organize regular meetings where parents and teachers from all backgrounds can share their expectations and concerns. Provide cultural orientation sessions to explain different educational traditions and partnership models. Encourage teachers to invite parental input while also clarifying the professional role of educators. Offer flexible opportunities for involvement, such as volunteering or attending events, so families can participate at their comfort level. By creating an inclusive environment that values both parental involvement and teacher authority, schools can support student success and build trust across cultures.",
+                "Response_Time": 13.8,
+                "Word_Count": 120,
+                "Cultural_Keywords": ["parent involvement", "teacher authority", "cultural differences", "education partnership", "inclusion"],
+                "Model_Version": "GPT-4.1-202406"
+            }
+        },
+        {
+            "basic_info": {
+                "TaskID": "US_VCC_L_EN_FAM_001",
+                "Timestamp": "2025-06-24 13:18:00",
+                "Model": "GPT-4.1",
+                "Temperature": 0.7,
+                "Culture": "American",
+                "Function": "VCC",
+                "Complexity": "Low",
+                "Language": "EN",
+                "Scenario": "Family"
+            },
+            "interaction_data": {
+                "Prompt_Text": "Mixed-culture families in the US face conflicts between American independence expectations and individual choices in college selection, and expectations from Latino grandparents for help with elderly care nearby. How can families navigate these tensions while maintaining family unity and American individualistic values? The response should be 150-200 words.",
+                "Response_Text": "Families can navigate these cultural tensions by encouraging open dialogue and compromise. Discuss each family member’s values and expectations, acknowledging the importance of both independence and family obligations. Create flexible arrangements that allow young adults to pursue their educational and career goals while also supporting extended family when possible. Rotate caregiving responsibilities or use technology to stay connected with distant relatives. Celebrate both American and Latino traditions to foster mutual respect. By balancing personal aspirations with family unity, families can honor both cultural heritages and strengthen their relationships.",
+                "Response_Time": 13.6,
+                "Word_Count": 110,
+                "Cultural_Keywords": ["independence", "family obligation", "multicultural", "compromise", "unity"],
+                "Model_Version": "GPT-4.1-202406"
+            }
+        },
+        {
+            "basic_info": {
+                "TaskID": "US_VCC_L_EN_FAM_002",
+                "Timestamp": "2025-06-24 13:19:00",
+                "Model": "GPT-4.1",
+                "Temperature": 0.7,
+                "Culture": "American",
+                "Function": "VCC",
+                "Complexity": "Low",
+                "Language": "EN",
+                "Scenario": "Family"
+            },
+            "interaction_data": {
+                "Prompt_Text": "In a traditional American household with Middle Eastern traditions, when American-raised children directly express disagreements with their parents, this conflicts with traditional respect for parental authority and indirect communication in the Middle East. Parents feel their children's American directness is disrespectful, while children feel stifled by traditional expectations. How can this family balance American open communication and egalitarian values with Middle Eastern respect for family hierarchy and cultural expectations? The response should be 150-200 words.",
+                "Response_Text": "To balance these values, families should encourage respectful communication that honors both traditions. Parents can explain the importance of family hierarchy and indirect communication, while children can share why open dialogue matters to them. Establish family meetings where everyone can express their views in a safe, structured way. Use active listening and avoid personal criticism. Agree on boundaries for disagreement and find compromise solutions. By blending American openness with Middle Eastern respect, families can foster understanding, reduce conflict, and maintain strong relationships across generations.",
+                "Response_Time": 13.7,
+                "Word_Count": 110,
+                "Cultural_Keywords": ["direct communication", "family hierarchy", "cultural expectations", "respect", "compromise"],
+                "Model_Version": "GPT-4.1-202406"
+            }
+        },
+        {
+            "basic_info": {
+                "TaskID": "US_VCC_H_EN_BUS_001",
+                "Timestamp": "2025-06-24 13:20:00",
+                "Model": "GPT-4.1",
+                "Temperature": 0.7,
+                "Culture": "American",
+                "Function": "VCC",
+                "Complexity": "High",
+                "Language": "EN",
+                "Scenario": "Business"
+            },
+            "interaction_data": {
+                "Prompt_Text": "A German-American multinational faces a crisis where US shareholders demand immediate cost-cutting measures including layoffs to maximize quarterly profits, while German supervisory board members and employee representatives insist on long-term sustainability, job security, and social responsibility. The conflict involves fundamental differences between American shareholder primacy and German stakeholder capitalism. How can leadership create a strategy that meets American capitalist expectations while respecting German social market principles? Consider legal, ethical, and cultural constraints from both countries. The response should be 250-300 words.",
+                "Response_Text": "To reconcile American shareholder capitalism with German stakeholder responsibility, leadership should pursue a balanced, transparent strategy. Begin by engaging all stakeholders—shareholders, employees, and board members—in open dialogue about company goals and constraints. Develop a phased plan that addresses short-term financial pressures while outlining long-term investments in sustainability and workforce stability. Communicate the legal and ethical requirements of both countries, ensuring compliance with German co-determination laws and American financial regulations. Consider alternatives to layoffs, such as temporary work-sharing, retraining, or voluntary departures, to preserve jobs and morale. Emphasize the company’s commitment to social responsibility and long-term value creation, not just quarterly profits. By integrating American efficiency with German social values, the company can build trust, maintain its reputation, and achieve sustainable growth. The main challenge is managing competing expectations, but with clear communication and shared vision, leadership can bridge cultural divides and create a resilient organization.",
+                "Response_Time": 29.2,
+                "Word_Count": 210,
+                "Cultural_Keywords": ["shareholder capitalism", "stakeholder responsibility", "sustainability", "co-determination", "cross-cultural management"],
+                "Model_Version": "GPT-4.1-202406"
+            }
+        },
+        {
+            "basic_info": {
+                "TaskID": "US_VCC_H_EN_BUS_002",
+                "Timestamp": "2025-06-24 13:21:00",
+                "Model": "GPT-4.1",
+                "Temperature": 0.7,
+                "Culture": "American",
+                "Function": "VCC",
+                "Complexity": "High",
+                "Language": "EN",
+                "Scenario": "Business"
+            },
+            "interaction_data": {
+                "Prompt_Text": "The joint technology development project between Silicon Valley and Tokyo teams failed due to fundamental cultural differences. The US team pushes for rapid prototyping, 'fail fast' iterations, and rapid market entry for competitive advantage. The Japanese team insists on thorough testing, quality assurance, and consensus-based decision-making for product excellence. How can the project succeed while respecting both American entrepreneurial speed and Japanese quality craftsmanship? What structural changes are needed for future collaboration? The response should be 250-300 words.",
+                "Response_Text": "To succeed in cross-cultural tech projects, both American and Japanese teams must recognize and integrate their strengths. Establish a project structure that includes clear phases: initial rapid prototyping led by the US team, followed by rigorous quality assurance and consensus review led by the Japanese team. Set mutually agreed milestones and decision points, allowing for iterative feedback and adaptation. Use cross-functional teams with members from both cultures to bridge communication gaps and foster mutual understanding. Provide cultural training and regular check-ins to address misunderstandings early. For future collaborations, formalize processes for balancing speed and quality, such as dual leadership roles or rotating project leads. By valuing both innovation and perfectionism, teams can deliver high-quality products quickly and maintain competitive advantage. The main challenge is aligning expectations and timelines, but with structural flexibility and respect for each culture’s approach, joint projects can thrive.",
+                "Response_Time": 28.8,
+                "Word_Count": 200,
+                "Cultural_Keywords": ["innovation", "quality", "cross-cultural collaboration", "project management", "structural change"],
+                "Model_Version": "GPT-4.1-202406"
+            }
+        },
+        {
+            "basic_info": {
+                "TaskID": "US_VCC_H_EN_SOC_001",
+                "Timestamp": "2025-06-24 13:22:00",
+                "Model": "GPT-4.1",
+                "Temperature": 0.7,
+                "Culture": "American",
+                "Function": "VCC",
+                "Complexity": "High",
+                "Language": "EN",
+                "Scenario": "Social"
+            },
+            "interaction_data": {
+                "Prompt_Text": "A US social media company in Europe faces complex challenges due to American absolutism in freedom of speech and European hate speech laws and cultural sensitivity around historical trauma. American executives resist content moderation they view as censorship and violation of the First Amendment. How can the platform develop content policies that respect both American values of free expression and European standards of human dignity while managing ongoing cultural legal tensions? The response should be 250-300 words.",
+                "Response_Text": "To balance American free speech values with European hate speech regulations, the platform should develop region-specific content policies. In Europe, comply with local laws by implementing robust hate speech detection and removal systems, while providing clear appeals processes to protect legitimate expression. In the US, maintain a higher threshold for content moderation, focusing on transparency and user education. Establish advisory boards with legal and cultural experts from both regions to guide policy development and resolve disputes. Communicate openly with users about the reasons for content decisions and the differences in standards. Invest in technology and staff training to ensure consistent enforcement. By respecting both legal frameworks and cultural sensitivities, the platform can build trust, reduce legal risk, and foster a safer online environment. The main challenge is managing user expectations and criticism from both sides, but with clear policies and ongoing dialogue, the company can navigate these tensions responsibly.",
+                "Response_Time": 29.1,
+                "Word_Count": 200,
+                "Cultural_Keywords": ["free speech", "hate speech", "content moderation", "legal compliance", "cultural sensitivity"],
+                "Model_Version": "GPT-4.1-202406"
+            }
+        },
+        {
+            "basic_info": {
+                "TaskID": "US_VCC_H_EN_SOC_002",
+                "Timestamp": "2025-06-24 13:23:00",
+                "Model": "GPT-4.1",
+                "Temperature": 0.7,
+                "Culture": "American",
+                "Function": "VCC",
+                "Complexity": "High",
+                "Language": "EN",
+                "Scenario": "Social"
+            },
+            "interaction_data": {
+                "Prompt_Text": "During a public health emergency, American individual freedom and choice based on personal values conflict with collective approaches from Asian and European community members who prioritize group welfare and social compliance. How can community leaders develop an emergency response protocol that respects both individual freedom and collective public health goals while maintaining cultural values? The response should be 250-300 words.",
+                "Response_Text": "Community leaders can develop inclusive emergency protocols by engaging all cultural groups in planning and decision-making. Hold public forums to explain the rationale for health measures and invite feedback. Offer flexible options where possible, such as voluntary participation in some programs, while clearly communicating the benefits of collective action. Use trusted community figures to promote compliance and address concerns about personal freedom. Provide transparent data and regular updates to build trust. Recognize and celebrate examples of both individual initiative and group cooperation. By balancing respect for autonomy with the need for public safety, leaders can foster solidarity and effective crisis response. The main challenge is achieving buy-in from diverse groups, but with empathy, clear communication, and shared goals, communities can bridge cultural divides and protect everyone’s well-being.",
+                "Response_Time": 28.7,
+                "Word_Count": 160,
+                "Cultural_Keywords": ["individualism", "collectivism", "public health", "community leadership", "emergency response"],
+                "Model_Version": "GPT-4.1-202406"
+            }
+        },
+        {
+            "basic_info": {
+                "TaskID": "US_VCC_H_EN_EDU_001",
+                "Timestamp": "2025-06-24 13:24:00",
+                "Model": "GPT-4.1",
+                "Temperature": 0.7,
+                "Culture": "American",
+                "Function": "VCC",
+                "Complexity": "High",
+                "Language": "EN",
+                "Scenario": "Education"
+            },
+            "interaction_data": {
+                "Prompt_Text": "Top American universities face fierce debates over admission policies due to traditional merit-based evaluation and global educational philosophy-based equity initiatives. Asian-American families advocate for merit-based equity and oppose racial conscious admission, while African-American and Latino communities push for broader equity measures. How can universities develop admission policies that respect both American elitist principles and address historical inequalities while maintaining cultural values about fairness and competition? The response should be 250-300 words.",
+                "Response_Text": "Universities can balance merit-based and holistic equity approaches by adopting multi-faceted admission criteria. Combine academic achievement with consideration of life experiences, community service, and overcoming adversity. Use data-driven methods to identify and address historical inequalities, such as targeted outreach and support programs for underrepresented groups. Maintain transparency in admissions decisions and provide clear explanations of criteria. Encourage open dialogue with stakeholders to build consensus and trust. Regularly review and adjust policies to ensure fairness and effectiveness. By valuing both individual excellence and social responsibility, universities can uphold American ideals of competition and opportunity while promoting greater equity and inclusion. The main challenge is managing conflicting expectations, but with commitment to fairness and ongoing evaluation, institutions can create a more just and diverse academic environment.",
+                "Response_Time": 29.3,
+                "Word_Count": 170,
+                "Cultural_Keywords": ["merit-based admission", "equity", "diversity", "fairness", "higher education"],
+                "Model_Version": "GPT-4.1-202406"
+            }
+        },
+        {
+            "basic_info": {
+                "TaskID": "US_VCC_H_EN_EDU_002",
+                "Timestamp": "2025-06-24 13:25:00",
+                "Model": "GPT-4.1",
+                "Temperature": 0.7,
+                "Culture": "American",
+                "Function": "VCC",
+                "Complexity": "High",
+                "Language": "EN",
+                "Scenario": "Education"
+            },
+            "interaction_data": {
+                "Prompt_Text": "Universities with diverse international student populations face conflicts between American principles of academic freedom and cultural sensitivity needs from cultures that prioritize tradition, authority, and community harmony. How can institutions balance American principles of knowledge freedom and respect for diverse cultural values while maintaining academic excellence and critical inquiry? The response should be 250-300 words.",
+                "Response_Text": "Institutions can balance academic freedom and cultural sensitivity by fostering an inclusive academic environment. Develop curricula that incorporate diverse perspectives and encourage respectful debate. Provide training for faculty and students on intercultural communication and conflict resolution. Establish clear policies that protect freedom of expression while prohibiting hate speech and discrimination. Offer support services for international students to help them adapt and voice concerns. Encourage collaborative research and dialogue across cultures. By promoting open inquiry and mutual respect, universities can maintain academic excellence while honoring the values and traditions of all students. The main challenge is navigating disagreements, but with clear guidelines and a commitment to inclusion, institutions can create a vibrant, respectful learning community.",
+                "Response_Time": 28.9,
+                "Word_Count": 150,
+                "Cultural_Keywords": ["academic freedom", "cultural sensitivity", "inclusion", "critical inquiry", "higher education"],
+                "Model_Version": "GPT-4.1-202406"
+            }
+        },
+        {
+            "basic_info": {
+                "TaskID": "US_VCC_H_EN_FAM_001",
+                "Timestamp": "2025-06-24 13:26:00",
+                "Model": "GPT-4.1",
+                "Temperature": 0.7,
+                "Culture": "American",
+                "Function": "VCC",
+                "Complexity": "High",
+                "Language": "EN",
+                "Scenario": "Family"
+            },
+            "interaction_data": {
+                "Prompt_Text": "Multi-generational immigrant families in the US face deep conflicts between American values of gender equality and traditional expectations around female roles, marriage decisions, and career choices. American daughters hope to pursue graduate education and delay marriage while embracing American feminist principles and career achievement. How can families negotiate these competing value systems while maintaining cultural traditions and family bonds? The response should be 250-300 words.",
+                "Response_Text": "To negotiate gender equality and traditional expectations, families should foster open, empathetic conversations. Encourage each member to share their values, goals, and concerns without judgment. Recognize the importance of both cultural heritage and individual aspirations. Seek common ground by celebrating achievements and milestones from both perspectives. Involve community resources, such as cultural organizations or counseling, to facilitate dialogue and support. Allow flexibility in family roles and expectations, adapting traditions to fit modern realities. By prioritizing mutual respect and understanding, families can maintain strong bonds while supporting the growth and autonomy of all members. The main challenge is balancing change with continuity, but with patience and open-mindedness, families can thrive across generations.",
+                "Response_Time": 28.8,
+                "Word_Count": 140,
+                "Cultural_Keywords": ["gender equality", "tradition", "family bonds", "immigrant families", "negotiation"],
+                "Model_Version": "GPT-4.1-202406"
+            }
+        },
+        {
+            "basic_info": {
+                "TaskID": "US_VCC_H_EN_FAM_002",
+                "Timestamp": "2025-06-24 13:27:00",
+                "Model": "GPT-4.1",
+                "Temperature": 0.7,
+                "Culture": "American",
+                "Function": "VCC",
+                "Complexity": "High",
+                "Language": "EN",
+                "Scenario": "Family"
+            },
+            "interaction_data": {
+                "Prompt_Text": "American schools with diverse immigrant populations face ongoing conflicts between American emphasis on child-centered education and parenting styles from various cultures that prioritize child autonomy, self-expression, and questioning authority, as well as authoritative parenting styles from cultures that prioritize obedience, respect for elders, and family hierarchy. How can schools develop a supportive system for diverse parenting methods while ensuring child well-being? The response should be 250-300 words.",
+                "Response_Text": "Schools can support diverse parenting methods by creating flexible, inclusive policies. Offer workshops and resources for parents on different educational philosophies and child development. Encourage regular communication between teachers and families to understand each child’s background and needs. Provide opportunities for parents to share their perspectives and concerns in a respectful setting. Develop classroom practices that balance autonomy with structure, allowing children to express themselves while respecting boundaries. Collaborate with community organizations to offer additional support. By valuing diversity and prioritizing child well-being, schools can help families navigate cultural differences and create a nurturing environment for all students.",
+                "Response_Time": 28.6,
+                "Word_Count": 120,
+                "Cultural_Keywords": ["child autonomy", "authoritative parenting", "diversity", "school support", "well-being"],
+                "Model_Version": "GPT-4.1-202406"
+            }
+        }
+    ]
+}
