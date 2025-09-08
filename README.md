@@ -43,22 +43,21 @@ This empirical study draws on structured autoethnographic methodology to systema
 
 ### Sample and Evaluation
 - **Sample Size**: Starts with 128 base task types, multiplied by 3 models for 384 interactions, ramping up to about 1344 total (factoring in quality checks).
-- **Expert Setup**: I'm using a single primary evaluator (that's me, with a background in cross-cultural psych) for the bulk of the assessments, backed by three cultural validators—one for each major culture—for 20% spot-checks. Aiming for ICC above 0.75 to ensure reliability.
+- **Expert Setup**: I'm using a single primary evaluator for the bulk of the assessments, backed by three cultural validators—one for each major culture—for 20% spot-checks. Aiming for ICC above 0.75 to ensure reliability.
 - **Quality Controls**: We've got standardized procedures, regular self-calibrations, structured reflection notes, and smart sampling to catch any inconsistencies.
 - **Task Example** (Simplified): Take a low-complexity TCU task for Chinese culture—explaining "guanxi" (关系), covering its core meaning and how it differs from Western networking.
 
 ### Implementation and Analysis
 - **Timeline**: Spanning 12 weeks: training in Weeks 1-2, main evaluations in 3-8, validation in 9-10, and wrapping up with analysis in 11-12.
-- **Statistical Plan**: Mixed ANOVA for the main effects, regression and clustering for deeper insights, plus qualitative thematic analysis from the autoethnographic logs to tie it all together.
+- **Statistical Plan**: Mixed ANOVA for the main effects, regression, and clustering for deeper insights, plus qualitative thematic analysis from the autoethnographic logs to tie it all together.
 - **Risk Management**: I've planned for backups like extra experts, alternative API accesses, and some buffer time in the schedule to handle any hiccups.
 
 ## Expected Contributions
 - **Methodological**: This is, to my knowledge, the first time structured autoethnography is being applied to AI evals, creating a new way to manage biases.
 - **Theoretical**: It'll validate mechanisms behind LLM cultural biases and build out a four-dimensional model for assessments.
-- **Practical**: Should guide better cultural adaptations in AI products, with an eye toward publishing in journals like IJHCS.
+- **Practical**: Should guide better cultural adaptations in AI products, to publish in journals like IJHCS.
 
 ## Notes
-The project's still in beta testing mode. I'll share the full results, data, and manual once the paper's out. For now, this is just an overview of the design for internal chats (like with my advisor). If you need more details or tweaks, hit me up at [your email or contact info].
-
+The project's still in beta testing mode. I'll share the full results, data, and manual once the paper's out. For now, this is just an overview of the design for internal chats
 **Disclaimer**: Everything here is for reference and isn't a formal pub yet. Please keep it under wraps to avoid spoiling the unpublished stuff.
-```
+
