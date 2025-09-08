@@ -1,6 +1,5 @@
 # Cross-Cultural LLM Evaluation Scoring Manual (Detailed)
 
-**Version:** v0.1 (public, WIP)  
 **Intended users:** Principal evaluator + cultural validators  
 **Scope:** Scoring LLM responses for cross-cultural sensitivity across tasks and conditions (culture, language, complexity, scenario)
 
