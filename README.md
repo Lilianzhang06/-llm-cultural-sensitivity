@@ -3,61 +3,62 @@
 
 ## Project Overview
 
-This is an empirical study grounded in structured autoethnographic methodology, aimed at systematically evaluating the cultural sensitivity of large language models (LLMs) in cross-cultural contexts. As LLMs gain widespread global adoption, their inherent cultural biases have emerged as a pressing concern. This research focuses on cultures from China, the United States, Germany, and Sweden, leveraging Hofstede's cultural dimensions theory to examine LLMs' performance across functional dimensions including cultural concept understanding (TCU), emotional expression identification (EEI), social norm application (SNA), and value conflict coordination (VCC).
+This empirical study draws on structured autoethnographic methodology to systematically assess the cultural sensitivity of large language models (LLMs) across diverse cultural contexts. With LLMs becoming ubiquitous worldwide, their embedded cultural biases pose significant challenges. My research zeroes in on cultures from China, the United States, Germany, and Sweden, applying Hofstede's cultural dimensions theory to investigate LLMs' capabilities in areas like cultural concept understanding (TCU), emotional expression identification (EEI), social norm application (SNA), and value conflict coordination (VCC).
 
-**Research Background and Significance**: Existing LLM evaluations often suffer from fragmented theoretical validation, superficial methodological approaches, externalized cultural perspectives, and limited scale. This study innovatively incorporates structured autoethnography, emphasizing the evaluator's internal perspective and reflexive processes, to address these gaps and provide foundational guidance for developing more culturally inclusive AI systems.
+**Research Background and Significance**: A lot of current LLM evaluations fall short—they're often theoretically fragmented, methodologically superficial, treat culture from an outsider's view, or are just too small in scope. To tackle this, I've incorporated structured autoethnography, which puts the evaluator's own internal experiences and reflections at the center. This approach not only fills those gaps but also offers practical insights for creating AI that's truly inclusive across cultures.
 
 **Core Research Questions**:
-- **RQ1**: How do LLMs' cultural sensitivity performances differ across various cultural backgrounds?
-- **RQ2**: How do language conditions (English vs. native language) influence LLMs' cross-cultural comprehension?
-- **RQ3**: Are there systematic differences in cultural sensitivity across functional dimensions?
-- **RQ4**: How does structured autoethnography mitigate subjective biases in cultural evaluations?
+- **RQ1**: How does cultural sensitivity in LLMs vary across different cultural backgrounds?
+- **RQ2**: What impact do language conditions (English vs. native language) have on LLMs' cross-cultural understanding?
+- **RQ3**: Are there consistent differences in sensitivity across various functional dimensions?
+- **RQ4**: In what ways can structured autoethnography help control subjective biases in these evaluations?
 
 ## Experimental Framework
 
 ### Design Overview
-- **Mixed Experimental Design**: 4 (cultures) × 3 (models) × 4 (functions) × 4 (scenarios) × 2 (complexities) × 2 (languages).
-- **Cultural Backgrounds**: China, United States, Germany, Sweden (selected based on Hofstede's dimensions to ensure diversity).
-- **Model Types**: GPT-4.1 (benchmark), Claude-4-Sonnet (safety-aligned), Gemini-2.5-Pro (globalized).
+- **Mixed Experimental Design**: It's a 4 (cultures) × 3 (models) × 4 (functions) × 4 (scenarios) × 2 (complexities) × 2 (languages) setup—pretty comprehensive to capture all the nuances.
+- **Cultural Backgrounds**: China, United States, Germany, Sweden—chosen based on Hofstede's dimensions for a good mix of diversity.
+- **Model Types**: GPT-4.1 as the benchmark, Claude-4-Sonnet for its safety alignment, and Gemini-2.5-Pro for its global, multimodal edge.
 - **Functional Dimensions**: TCU, EEI, SNA, VCC.
 - **Scenarios**: Business (BUS), Education (EDU), Social (SOC), Family (FAM).
-- **Complexity Levels**: Low (single concepts, 150-200 words); High (multi-faceted conflicts, 250-300 words).
-- **Languages**: English vs. target native language.
+- **Complexity Levels**: Low involves simple concepts (150-200 words); high deals with multi-layered conflicts (250-300 words).
+- **Languages**: English versus the target culture's native language.
 
-**Cultural Selection Rationale (Summary Table)**:
+**Cultural Selection Rationale (Quick Table)**:
 
-| Culture | Key Dimensions | Selection Rationale |
+| Culture | Key Dimensions | Why I Chose It |
 | --- | --- | --- |
-| China | High Collectivism + Long-term Orientation | Represents Eastern relational cultures |
-| United States | High Individualism + Short-term Orientation | Represents Western direct expression |
-| Germany | Rule-oriented + Moderate Individualism | Emphasizes systematic thinking and procedural justice |
-| Sweden | Low Power Distance + Low Masculinity | Highlights equality and quality of life priorities |
+| China | High Collectivism + Long-term Orientation | Captures Eastern relational dynamics |
+| United States | High Individualism + Short-term Orientation | Exemplifies Western directness |
+| Germany | Rule-oriented + Moderate Individualism | Focuses on structure and fairness |
+| Sweden | Low Power Distance + Low Masculinity | Stresses equality and well-being |
 
-**Model Selection Rationale (Summary Table)**:
+**Model Selection Rationale (Quick Table)**:
 
-| Model | Core Strengths | Selection Rationale |
+| Model | Core Strengths | Why I Picked It |
 | --- | --- | --- |
-| GPT-4.1 | Extensive training data | Industry baseline |
-| Claude-4-Sonnet | Value conflict handling | Represents safety-focused AI paradigms |
-| Gemini-2.5-Pro | Multimodal and globalized capabilities | Provides contrast in technical architecture |
+| GPT-4.1 | Broad training data | Serves as the standard reference point |
+| Claude-4-Sonnet | Strong in handling value conflicts | Represents safety-oriented AI development |
+| Gemini-2.5-Pro | Multimodal and globally tuned | Offers a contrast in architecture and philosophy |
 
 ### Sample and Evaluation
-- **Sample Size**: 128 base task types × 3 models = 384 interactions, totaling approximately 1344 interactions (including quality controls).
-- **Expert Configuration**: A single primary evaluator (with expertise in cross-cultural psychology) handles the main assessments, supported by three cultural validators (one per major culture) for 20% sampled validation, targeting ICC > 0.75.
-- **Quality Controls**: Standardized protocols, self-calibration, structured reflexive logs, and intelligent sampling for validation.
-- **Task Example** (Simplified): For a low-complexity TCU task in Chinese culture—analyze the concept of "guanxi" (关系), including core meanings and comparisons to Western networking.
+- **Sample Size**: Starts with 128 base task types, multiplied by 3 models for 384 interactions, ramping up to about 1344 total (factoring in quality checks).
+- **Expert Setup**: I'm using a single primary evaluator (that's me, with a background in cross-cultural psych) for the bulk of the assessments, backed by three cultural validators—one for each major culture—for 20% spot-checks. Aiming for ICC above 0.75 to ensure reliability.
+- **Quality Controls**: We've got standardized procedures, regular self-calibrations, structured reflection notes, and smart sampling to catch any inconsistencies.
+- **Task Example** (Simplified): Take a low-complexity TCU task for Chinese culture—explaining "guanxi" (关系), covering its core meaning and how it differs from Western networking.
 
 ### Implementation and Analysis
-- **Timeline**: 12 weeks, encompassing training (Weeks 1-2), primary evaluation (Weeks 3-8), validation (Weeks 9-10), and analysis (Weeks 11-12).
-- **Statistical Plan**: Mixed ANOVA, regression analysis, clustering; integrated with qualitative thematic analysis of autoethnographic data.
-- **Risk Management**: Backup experts, API redundancies, and schedule buffers.
+- **Timeline**: Spanning 12 weeks: training in Weeks 1-2, main evaluations in 3-8, validation in 9-10, and wrapping up with analysis in 11-12.
+- **Statistical Plan**: Mixed ANOVA for the main effects, regression and clustering for deeper insights, plus qualitative thematic analysis from the autoethnographic logs to tie it all together.
+- **Risk Management**: I've planned for backups like extra experts, alternative API accesses, and some buffer time in the schedule to handle any hiccups.
 
 ## Expected Contributions
-- **Methodological**: First application of structured autoethnography to AI evaluation, offering a framework for bias control.
-- **Theoretical**: Validation of LLM cultural bias mechanisms and construction of a four-dimensional evaluation model.
-- **Practical**: Guidance for culturally adaptive AI product design, targeting journals such as IJHCS.
+- **Methodological**: This is, to my knowledge, the first time structured autoethnography is being applied to AI evals, creating a new way to manage biases.
+- **Theoretical**: It'll validate mechanisms behind LLM cultural biases and build out a four-dimensional model for assessments.
+- **Practical**: Should guide better cultural adaptations in AI products, with an eye toward publishing in journals like IJHCS.
 
 ## Notes
-This project is in its beta testing phase. Detailed experimental results, data, and the full manual will be released following the publication of the academic paper. The current document provides an overview of the design framework for internal discussions (e.g., advisor review). For further details or modifications, please contact [your email or contact information].
+The project's still in beta testing mode. I'll share the full results, data, and manual once the paper's out. For now, this is just an overview of the design for internal chats (like with my advisor). If you need more details or tweaks, hit me up at [your email or contact info].
 
-**Disclaimer**: The contents of this repository are for reference only and do not constitute a formal publication. Please refrain from external sharing to protect unpublished work.
+**Disclaimer**: Everything here is for reference and isn't a formal pub yet. Please keep it under wraps to avoid spoiling the unpublished stuff.
+```
